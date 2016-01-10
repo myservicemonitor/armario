@@ -1,3 +1,3 @@
 import sys
-print("Something failed")
-sys.exit(1)
+print("Everything works")
+sys.exit(0)

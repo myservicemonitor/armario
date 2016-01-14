@@ -1,0 +1,77 @@
+receiving incremental file list
+A/A0/bmoretti/Bruno/
+A/A0/bmoretti/Bruno/Codigo/
+A/A0/bmoretti/Bruno/Codigo/spim/
+A/A0/bmoretti/Bruno/Codigo/spim/README.txt
+A/A0/bmoretti/Bruno/Codigo/spim/requeriments.txt
+A/A0/bmoretti/Bruno/Codigo/spim/examples/
+A/A0/bmoretti/Bruno/Codigo/spim/examples/servo_sg90.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__init__.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/andorzyla.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/barrer_muestra.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/spim_control.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/spim_control.ui
+A/A0/bmoretti/Bruno/Codigo/spim/spim/Arduino/
+A/A0/bmoretti/Bruno/Codigo/spim/spim/Arduino/sg90/
+A/A0/bmoretti/Bruno/Codigo/spim/spim/Arduino/sg90/sg90.ino
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__pycache__/
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__pycache__/__init__.cpython-35.pyc
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__pycache__/andorzyla.cpython-35.pyc
+A/A0/bmoretti/Bruno/Codigo/spim/tests/
+A/A0/bmoretti/Bruno/Codigo/spim/tests/mytestfile.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/test_barrer_muestra.py
+A/A0/bmoretti/Bruno/Codigo/spim/tests/test_hdf5.py
+A/A0/bmoretti/Bruno/Codigo/spim/tests/test_zyla.py
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Notas varias.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Open Notebook.onetoc2
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Microtubulos/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Microtubulos/2016-01-07.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Microtubulos/2016-01-08.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/OneNote_RecycleBin/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/OneNote_RecycleBin/New Section 1 2.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/OneNote_RecycleBin/OneNote_DeletedPages.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/OneNote_RecycleBin/Open Notebook.onetoc2
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-04.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-06.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-07.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-11.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-12.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-13.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/Open Notebook.onetoc2
+A/A0/bmoretti/Bruno/SPIM/
+A/A0/bmoretti/Bruno/SPIM/Drivers/Andor Zyla/PYME/
+A/A0/bmoretti/Bruno/SPIM/Drivers/Andor Zyla/PYME/Nota sobre esta carpeta.txt
+A/A0/bmoretti/Bruno/SPIM/Drivers/Andor Zyla/PYME/testZyla.py
+A/A0/bmoretti/Bruno/SPIM/Planos/Soporte Servo/
+A/A0/bmoretti/Bruno/SPIM/Planos/Soporte Servo/Soporte_servo_2.PDF
+A/A0/bmoretti/Bruno/SPIM/Planos/Soporte Servo/Soporte_servo_2.SLDDRW
+A/A0/general/
+A/A0/hgrecco/
+A/A0/hgrecco/.DS_Store
+A/A0/hgrecco/.AppleDB/
+A/A0/hgrecco/.AppleDB/db_errlog
+A/A0/hgrecco/.AppleDesktop/.volinfo
+A/A0/hgrecco/.AppleDouble/.DS_Store
+A/A0/hgrecco/Network Trash Folder/.AppleDouble/.Parent
+A/A0/hgrecco/Temporary Items/.AppleDouble/.Parent
+A/A0/hgrecco/data/.DS_Store
+A/A0/transfer/
+
+Number of files: 203,382 (reg: 189,423, dir: 13,450, link: 509)
+Number of created files: 29 (reg: 21, dir: 8)
+Number of regular files transferred: 40
+Total file size: 76,480,331,984 bytes
+Total transferred file size: 2,270,941 bytes
+Literal data: 745,960 bytes
+Matched data: 1,524,981 bytes
+File list size: 1,124,388
+File list generation time: 0.002 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 25,917
+Total bytes received: 5,039,173
+
+sent 25,917 bytes  received 5,039,173 bytes  108,926.67 bytes/sec
+total size is 76,480,331,984  speedup is 15,099.50

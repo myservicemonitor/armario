@@ -1,17 +1,17 @@
 receiving incremental file list
 
-Number of files: 203,808 (reg: 189,759, dir: 13,540, link: 509)
+Number of files: 203,803 (reg: 189,755, dir: 13,539, link: 509)
 Number of created files: 0
 Number of regular files transferred: 0
-Total file size: 76,802,673,393 bytes
+Total file size: 76,780,374,360 bytes
 Total transferred file size: 0 bytes
 Literal data: 0 bytes
 Matched data: 0 bytes
-File list size: 1,002,540
+File list size: 961,330
 File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 13,618
-Total bytes received: 4,828,721
+Total bytes sent: 13,697
+Total bytes received: 4,828,487
 
-sent 13,618 bytes  received 4,828,721 bytes  104,136.32 bytes/sec
-total size is 76,802,673,393  speedup is 15,860.66
+sent 13,697 bytes  received 4,828,487 bytes  111,314.57 bytes/sec
+total size is 76,780,374,360  speedup is 15,856.56

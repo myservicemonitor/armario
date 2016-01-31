@@ -7,11 +7,11 @@ Total file size: 76,780,374,360 bytes
 Total transferred file size: 0 bytes
 Literal data: 0 bytes
 Matched data: 0 bytes
-File list size: 961,330
-File list generation time: 0.001 seconds
+File list size: 969,839
+File list generation time: 0.020 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 13,697
+Total bytes sent: 13,703
 Total bytes received: 4,828,487
 
-sent 13,697 bytes  received 4,828,487 bytes  111,314.57 bytes/sec
-total size is 76,780,374,360  speedup is 15,856.56
+sent 13,703 bytes  received 4,828,487 bytes  104,133.12 bytes/sec
+total size is 76,780,374,360  speedup is 15,856.54

@@ -1,5 +1,4 @@
 receiving incremental file list
-A/A0/lestrada/laura/conicet/
 
 Number of files: 203,808 (reg: 189,759, dir: 13,540, link: 509)
 Number of created files: 0
@@ -8,11 +7,11 @@ Total file size: 76,802,673,393 bytes
 Total transferred file size: 0 bytes
 Literal data: 0 bytes
 Matched data: 0 bytes
-File list size: 1,019,248
+File list size: 1,002,540
 File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 13,625
-Total bytes received: 4,828,728
+Total bytes sent: 13,618
+Total bytes received: 4,828,721
 
-sent 13,625 bytes  received 4,828,728 bytes  104,136.62 bytes/sec
-total size is 76,802,673,393  speedup is 15,860.61
+sent 13,618 bytes  received 4,828,721 bytes  104,136.32 bytes/sec
+total size is 76,802,673,393  speedup is 15,860.66

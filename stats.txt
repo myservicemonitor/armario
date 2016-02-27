@@ -1,297 +1,1149 @@
 receiving incremental file list
+./
+A/
 A/A0/bmoretti/Bruno/
 A/A0/bmoretti/Bruno/Bibliografia/
-A/A0/bmoretti/Bruno/Bibliografia/A toolkit for the characterization of CCD cameras for transmission electron microscopy.pdf
-A/A0/bmoretti/Bruno/Bibliografia/Apoptosis in Drosophila. Compensatory proliferation and undead cells.pdf
-A/A0/bmoretti/Bruno/Codigo/
+A/A0/bmoretti/Bruno/Bibliografia/Fluorescence_Microscopy_From_Principles_to_Bio.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Gao 2014 - 3D live fluorescence imaging of cellular dynamics using Bessel beam plane illumination microscopy.pdf
+A/A0/bmoretti/Bruno/Bibliografia/GitInternals.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Greger_2007_RevSciInstrum_BasicBuildingUnits.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Gualda2015.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Gustafsson 1995.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Hink2002.pdf
+A/A0/bmoretti/Bruno/Bibliografia/LMooreTutorial1.doc
+A/A0/bmoretti/Bruno/Bibliografia/Multilayer mounting enables long-term imaging of zebrafish.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Novotny and Hecht - Principles of Nano-Optics (2012).pdf
+A/A0/bmoretti/Bruno/Bibliografia/Pampaloni 2014.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Rapid three-dimensional isotropic imaging of living .pdf
+A/A0/bmoretti/Bruno/Bibliografia/Ritter 2008.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Singh AP 2013 2D array_supplementary.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Squire2004.pdf
+A/A0/bmoretti/Bruno/Bibliografia/[William_T._Silfvast]_Laser_fundamentals(BookZZ.org).djvu
+A/A0/bmoretti/Bruno/Bibliografia/diSPIM_Manual.pdf
+A/A0/bmoretti/Bruno/Bibliografia/huisken_phd.pdf
+A/A0/bmoretti/Bruno/Bibliografia/jove-protocol-51119-multilayer-mounting-for-long-term-light-sheet-microscopy-of-zebrafish.pdf
+A/A0/bmoretti/Bruno/Bibliografia/zeiss_lightsheet_sample_prep.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Andor_MicroManager_Guide_For_Neo_and_Zyla.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Andor_Neo_sCMOS_Brochure.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Andor_SDK3_Manual_35.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Andor_SDK3_Manual_39.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Andor_Zyla_sCMOS_Specifications.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/CMA_12PP_User_Manual.PDF
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/ESP300_User_Manual.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/F220-A_Divergence-1.xlsx
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/FieldMaxII-TO_UserManual_RevAF.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/FieldMaxII_SoftwareInstallationAndQuickStartGuide_1176436RevAC.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Invitrogen beads.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/TetrasSpeck fluorescent microspheres.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Datasheets/Zyla hardware user guide.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Abrams - 1993 - Programmed cell death during Drosophila embryogenesis.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Cashio2005.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Garcia2014.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Groth2003.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Steller - 2008 - Regulation of apoptosis in Drosophila.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Tang2015 - Caspase tracker.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Wang2012.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Libros/
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Libros/Campos Ortega - The Embryonic Development of Drosophila Melanogaster.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Drosophila/Libros/Drosophila - Methods and Protocols.pdf
+A/A0/bmoretti/Bruno/Bibliografia/Medaka/
+A/A0/bmoretti/Bruno/Bibliografia/Medaka/Iwamatsu 2004 .pdf
+A/A0/bmoretti/Bruno/Bibliografia/Medaka/Saito 2006.PDF
+A/A0/bmoretti/Bruno/Bibliografia/Medaka/[Masato_Kinoshita,_Kenji_Murata,_Kiyoshi_Naruse,_M(BookZZ.org).pdf
+A/A0/bmoretti/Bruno/Codigo/spim/examples/
+A/A0/bmoretti/Bruno/Codigo/spim/examples/servo_sg90.py
 A/A0/bmoretti/Bruno/Codigo/spim/spim/
-A/A0/bmoretti/Bruno/Codigo/spim/spim/spim_control_layouts.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/filterwheel.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/spim_control.py
+A/A0/bmoretti/Bruno/Codigo/spim/spim/spim_control.ui
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__pycache__/
+A/A0/bmoretti/Bruno/Codigo/spim/spim/__pycache__/filterwheel.cpython-35.pyc
 A/A0/bmoretti/Bruno/Codigo/spim/tests/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/MaxIntensityPositionY.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/README.md
-A/A0/bmoretti/Bruno/Codigo/trackingMT/eliminar_im1_2.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/extract_filaments.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/get_filaments.fig
-A/A0/bmoretti/Bruno/Codigo/trackingMT/get_filaments.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/importa_tif_hace_peli.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/plot_filament.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/plot_filament_cacho.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/plot_filament_overhead.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/plot_filaments_map.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/plot_static_filament.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/pruebas.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/test_scan.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/track_many.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/track_single.m
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/COMMIT_EDITMSG
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/FETCH_HEAD
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/HEAD
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/config
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/description
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/index
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/packed-refs
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/branches/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/applypatch-msg.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/commit-msg.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/post-update.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/pre-applypatch.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/pre-commit.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/pre-push.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/pre-rebase.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/prepare-commit-msg.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/hooks/update.sample
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/info/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/info/exclude
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/HEAD
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/heads/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/heads/master
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/remotes/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/remotes/origin/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/remotes/origin/HEAD
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/logs/refs/remotes/origin/master
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/00/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/00/3ed778d1eda166716991e9bb7a27f9cf9d29c6
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/02/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/02/7226381b83d191dc493b566cc635ac69ece6ee
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/05/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/05/9838fdbd275db1b575514721ac840dfefcba0d
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/07/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/07/607c33d4e58d27493e213face5ed8b313c5d06
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/08/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/08/5f7984426d27366dfdaaa106f1b050b00acd7e
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/0b/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/0b/b4d75e547e49e5a88b72f3668779e2b13f0a16
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/0f/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/0f/e053ee5b165d6ae5f1846d09baed9fee437355
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/13/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/13/361db593f0b6527b35c63b252038e565e354c8
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/19/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/19/6187b4e3425b4a642df1fa4b51a7870ab4f9ad
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/19/c15662e7914aa20ef7bd89f914fb9e33d2203f
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/1d/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/1d/9bd652a6b93b1c6c5cf846368336fed7dfa445
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/20/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/20/36b7b77043a807e75eb3525f7ca734e3ec9274
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/22/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/22/394578dc972ee9d4b6dad600effc201bfacbe9
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/2a/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/2a/f51e42554b91dc07cfb36147338e416e3a382c
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/2e/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/2e/7106ef324c4d17cf49dce3606e8615721e2d43
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/32/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/32/ef5321cf69c2d3941b3b2ff24c018c0c69f1be
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/3b/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/3b/96a50efcadf9fdd8f6a41aa4548dfdb98106fe
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/41/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/41/876c04436ed4eccc2f40229ffbc1298c97a6c9
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/42/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/42/8a247017902ad2de47f48ea7b560070e265e79
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/43/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/43/77caf450b36ee55e27009ef03d89a26947fd01
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/49/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/49/90363dfd7de7837cb76be503d5d1dcf3f37d93
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/4e/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/4e/53d44e637f951056f8d179c251516b3854871d
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/53/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/53/359ff9d98d5994b09c3fb58a16f979ee1594c8
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/55/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/55/3f91f588d5687ea4248c8c789a17781145d30d
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/59/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/59/68ff9ec86975a4377e51299c41bf08cd6362a0
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/5c/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/5c/79fc42f8bb8dfaeccfbecc0b7355d1ddbcb5bb
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/5f/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/5f/55fd3a6ef6ee160c9270f16f39876ff63747ac
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/62/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/62/4a04c6611de44b89d082865fca5c08af8a0cc2
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/63/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/63/4311f6b5fdb6a29c486304ec6fef5d1fecd595
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/63/77f57507cf5c944dd2bcc15756a33030c9b9de
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/6e/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/6e/23facf6c26d2691655139c55d40502b6f5a0e7
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/77/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/77/9b92f4b5cdadc3852fb16b905666d5ef59d9b7
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/79/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/79/9af304a314bcf24ec974d310cb50d9593017b6
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/79/f44afb78973d896ef6ea5c43c2ac8d25e7c822
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/7f/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/7f/95cb461cb874f0c5953c857efbefe279c38a1b
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/83/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/83/71fcaa4beb950046fff2ffccd5d1e61830cb4f
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/8a/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/8a/3295c702eab09c4183497a6938f85fd1f8651c
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/8f/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/8f/b6b580bf9dddf99f6f629eb40f8b4b3c8b8a59
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/93/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/93/75ddf4167b7b0c2fc6c8da040c7a7f3ee9d335
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/96/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/96/272886dd1988faa08d64039fcadea1f9fd406c
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/9f/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/9f/35f74967ffa1df3c935f51158622bc3098d5ef
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a0/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a0/ac3c13d392e5d1d1f051cd5b4b1137791f5419
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a3/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a3/87956debb647cb5a0fdd897f8e84bc26476567
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a3/bfc4d1c6dd4442ffd10fed39f1754b3720487b
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a9/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/a9/432ce4b74c4d977681b23d333cde828f0b46e5
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/ae/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/ae/14ef9383ad5a07ca221987d01c4d5d6ab32cdb
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/b3/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/b3/1d9eb177323e34f03b72d5863784057aba585a
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/bc/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/bc/b7f74af43a97ea5efd56dc8a68f6b6e677c801
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/bc/c0e42f126df8b3a81d736dbc77b1590e77f599
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/c5/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/c5/ce6ef5adfb5e7cfb76a88d50d6819fcb68ca3f
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/c8/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/c8/274d35fdd0ecbd1f23ae2cde855da5ce5b6ca0
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/d7/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/d7/fc7a7b2f3e4f45244419e6fc0014990d46c299
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/da/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/da/25af390d7a9da65ae638e10b5125eb68500a12
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/da/b7b019ff3f3450c4007ea485a3ece4dfb14dfa
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/da/dc70abd824165f19f813f39f2ad04fc69c8be0
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/db/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/db/67851b98d7602ffe7519a7be230274f0e439f1
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/dc/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/dc/0b235a0a3998575ef16e37d6da77060635f1d8
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/dc/ffdff9ca90002e7068013ca119e2bb1aeb7ef4
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e0/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e0/2d2e75cfe65cd2540e616fe3918bfe339d3b1b
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e1/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e1/4c291e75a9b85293da3eab8c745e2fbaa2c63f
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e6/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e6/942c80155d34bf377565de851c6ee31b98e276
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e6/a8c7c4f802e1fe295899192e91477a56170927
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/e6/b5d3a771b033981b6649c67690a723e1e73e18
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/ee/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/ee/8ffc74b6806d2fea995703ec11a50af5c75871
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f0/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f0/38dc5926c4925b3699346f8da6609e95b5c302
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f4/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f4/e610845faad87680010110c0e3e2e9aa672b5b
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f5/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f5/26ab49ccb565294a84e3e9cc12b08b932f4b22
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/f5/fa756205891a5d761be69f4aedbbe4320a5102
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fb/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fb/28e2fee1c3ff0432aceb3f81a70c0fd7703e67
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fd/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fd/84852c9a5c551fc7be2535b701936e0c8a38a2
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fd/90aff29004c2b3b292e8f0d21583b7b2237497
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fe/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fe/06d83d99344e9660ce9dc2645fc7865e3d7d7d
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/fe/16627153a55ee41a4eebe7ce1bc9b8ef3a9008
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/info/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/objects/pack/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/heads/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/heads/master
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/remotes/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/remotes/origin/
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/remotes/origin/HEAD
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/remotes/origin/master
-A/A0/bmoretti/Bruno/Codigo/trackingMT/.git/refs/tags/
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Notas varias.one
+A/A0/bmoretti/Bruno/Codigo/spim/tests/test_fiterwheel.py
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/ _0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/ _0001.hdf5_0002.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/ _0001.hdf5_0002.hdf5_0003.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/barrido_0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/custom_0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/custom_0002.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/custom_0003.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/custom_0004.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/lalal_0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/ola_0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/ola_0001.hdf5_0002.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/stack_0001.hdf5
+A/A0/bmoretti/Bruno/Codigo/spim/tests/2016_01_26/stack_0002.hdf5
 A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Drosophila/
 A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Drosophila/2016-01-29.one
 A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Drosophila/2016-02-01.one
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Drosophila/Open Notebook.onetoc2
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Microtubulos/
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/Microtubulos/2016-01-08.one
 A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-26.one
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01-29.one
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02-04.one
-A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02-05.one
 A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/Open Notebook.onetoc2
-A/A0/bmoretti/Bruno/Microtubulos/Algoritmo de tracking/
-A/A0/bmoretti/Bruno/SPIM/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-04.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-05.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-06.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-07.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-11.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-12.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-13.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-14.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-15.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-18.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-26.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-28.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/2016-01-29.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-01/Open Notebook.onetoc2
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/2016-02-04.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/2016-02-05.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/2016-02-10.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/2016-02-11.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/2016-02-12.one
+A/A0/bmoretti/Bruno/Cuaderno de laboratorio/Cuaderno de Laboratorio Moretti/SPIM/2016-02/Open Notebook.onetoc2
+A/A0/bmoretti/Bruno/SPIM/Analisis/TrackPy/
+A/A0/bmoretti/Bruno/SPIM/Analisis/TrackPy/find_centers.py
+A/A0/bmoretti/Bruno/SPIM/Analisis/TrackPy/util.py
+A/A0/bmoretti/Bruno/SPIM/Analisis/TrackPy/__pycache__/
+A/A0/bmoretti/Bruno/SPIM/Analisis/TrackPy/__pycache__/util.cpython-35.pyc
 A/A0/dellapicca/Doctorado/
 A/A0/dellapicca/Doctorado/sync.ffs_db
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2015/2015_11/2015_11_04/andrea2/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2015/2015_11/2015_11_04/andrea2/ajustes_tabla_1.xlsx
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_22/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_22/figuras_andrea/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_22/figuras_andrea/imagenes_review2.ppt
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_26/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_26/imagenes_review3.ppt
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/New Presentación de Microsoft PowerPoint.pptx
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/Presentation1.pptx
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/Presentation2.pptx
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/Untitled-10.cpt
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/Untitled-11.cpt
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/Untitled-11.pdf
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/ACS_Nano_cover.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/Kentico-cover-Dec.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/Nano Lett cover.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/cover58.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/images (1).jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/images.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nalefd.2012.12.issue-6.largecover.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nano letters cover NW HEMT RF May 2015.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nanolett_cover.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nanoletter.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nlv011i005_cover_web_large.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/nlv012i001_cover_web_large.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_01/2016_01_29/cover_paper/imagenes_guia/yxq cover.jpg
 A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/facturas_compras/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/facturas_compras/30712093370_06_0003_00001126.PDF
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/facturas_compras/Factura electronica B 0004-00000491.pdf
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/facturas_compras/Factura electronica B 0004-00000492.pdf
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/facturas_compras/caja_chica.xlsx
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/tapa_laser/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/tapa_laser/20160203_165206.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/tapa_laser/20160203_165253.jpg
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_03/tapa_laser/20160203_165448.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_11/
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_11/tapas_laser/
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_11/tapas_laser/20160210_161459.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_11/tapas_laser/20160210_161509.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173406.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173420.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173559.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173631.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173712.jpg
+A/A0/dellapicca/Doctorado/Trabajo_por_fecha/2016/2016_02/2016_02_12/fotos_tapa_FINAL/20160212_173725.jpg
 A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2016_01.one
 A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2016_02.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/Open Notebook.onetoc2
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/Papeles.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/Por Tema.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/Varios.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_06.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_07.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_08.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_09.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_10.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_11.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/2015_12.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/2015/Open Notebook.onetoc2
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/OneNote_RecycleBin/
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/OneNote_RecycleBin/OneNote_DeletedPages.one
-A/A0/dellapicca/Doctorado/Trabajo_por_fecha/Cuaderno_Lec1/OneNote_RecycleBin/Open Notebook.onetoc2
+A/A0/general/
+A/A0/hgrecco/
+A/A0/jubujjamer/
+A/A0/jubujjamer/notas.txt
+A/A0/jubujjamer/.Trash-1000/
+A/A0/jubujjamer/.Trash-1000/expunged/
+A/A0/jubujjamer/.Trash-1000/files/
+A/A0/jubujjamer/.Trash-1000/info/
+A/A0/jubujjamer/Toshiba/
+A/A0/jubujjamer/Toshiba/AccelStepper.zip
+A/A0/jubujjamer/Toshiba/SerialCommand.zip
+A/A0/jubujjamer/Toshiba/Code/
+A/A0/jubujjamer/Toshiba/Code/FWShutters/
+A/A0/jubujjamer/Toshiba/Code/FWShutters/FWShutters.ino
+A/A0/jubujjamer/Toshiba/Code/FWShutters_2/
+A/A0/jubujjamer/Toshiba/Code/FWShutters_2/FWShutters_2.ino
+A/A0/jubujjamer/Toshiba/FW10-master/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/Driver_Arduino_Motor_CompletoV2.ino
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/AccelStepper.cpp
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/AccelStepper.h
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/LICENSE
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/MANIFEST
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/Makefile
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/MultiStepper.cpp
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/MultiStepper.h
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/keywords.txt
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/project.cfg
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/AccelStepper_8h-source.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/annotated.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/classAccelStepper-members.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/classAccelStepper.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/doxygen.css
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/doxygen.png
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/files.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/functions.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/functions_func.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/index.html
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/tab_b.gif
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/tab_l.gif
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/tab_r.gif
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/doc/tabs.css
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/AFMotor_ConstantSpeed/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/AFMotor_MultiStepper/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Blocking/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Blocking/Blocking.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Bounce/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Bounce/Bounce.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/ConstantSpeed/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/ConstantSpeed/ConstantSpeed.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/DualMotorShield/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/DualMotorShield/DualMotorShield.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MotorShield/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MotorShield/MotorShield.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MultiStepper/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MultiStepper/MultiStepper.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MultipleSteppers/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/MultipleSteppers/MultipleSteppers.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Overshoot/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Overshoot/Overshoot.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/ProportionalControl/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/ProportionalControl/ProportionalControl.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Quickstop/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Quickstop/Quickstop.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Random/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/AccelStepper/examples/Random/Random.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/SerialCommand.cpp
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/SerialCommand.h
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/keywords.txt
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/library.json
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/readme.md
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/examples/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/examples/SerialCommandExample/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/Driver_Arduino_Motor_CompletoV2/SerialCommand/examples/SerialCommandExample/SerialCommandExample.pde
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/FWShutters/
+A/A0/jubujjamer/Toshiba/FW10-master/Codigo/FWShutters/FWShutters.ino
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/CNY70-circuit.png
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/PlanoContratapaCarcasa.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/PlanoPinion.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/PlanoRueda.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/PlanoTapaCarcasa.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/PlanoTapaRueda.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/ensamble1.png
+A/A0/jubujjamer/Toshiba/FW10-master/Data Sheet/main.tex
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Adaptaciones/
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Adaptaciones/PlanoSM1.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Adaptaciones/PlanoSm1-2mm.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoBuje Externo.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoBujeExterno.PDF
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoBujeInterno.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoEjeMotor.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoEjePinion.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Bujes y Ejes/PlanoEjeRueda.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/PlanoContratapaCarcasa.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/PlanoObturador.SLDDRW.doc
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/PlanoObturadorCarcasa.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/PlanoTapa.SLDDRW.doc
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/PlanoTapaCarcasa.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Carcasa/contratapa2.SLDDRW.doc
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoMetric - Spur gear 1.5M 63T 20PA 11.5FW.SLDDRW.doc
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoPinion.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoPinion.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoRueda.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoTapa.SLDDRW
+A/A0/jubujjamer/Toshiba/FW10-master/Planos/Rueda/PlanoTapaRueda.pdf
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Contratapa_Carcasa.STL
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Obturador.STL
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Pinon.STL
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Rueda_Filtro.STL
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Tapa_Carcasa.STL
+A/A0/jubujjamer/Toshiba/FW10-master/Vistas 3D/Tapa_Rueda.STL
+A/A0/jubujjamer/Toshiba/sspython/
+A/A0/jubujjamer/Toshiba/sspython/pyApp.py
+A/A0/jubujjamer/Toshiba/sspython/pyApp.py~
+A/A0/jubujjamer/Toshiba/sspython/pycontrol.py
+A/A0/jubujjamer/Toshiba/sspython/pycontrol.py~
+A/A0/jubujjamer/Toshiba/sspython/pydbApp.py
+A/A0/jubujjamer/Toshiba/sspython/pydbApp.py~
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/ReadASCIIString.ino
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/ReadASCIIString_ino/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/ReadASCIIString_ino/ReadASCIIString_ino.ino
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_complete/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_complete/shuttercontrol_complete.ino
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_ino/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_ino/shuttercontrol_ino.ino
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_inoAllButtons/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_inoAllButtons/shuttercontrol_inoAllButtons.ino
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_inoButton/
+A/A0/jubujjamer/Toshiba/sspython/ReadASCIIString/shuttercontrol_inoButton/shuttercontrol_inoButton.ino
+A/A0/jubujjamer/Toshiba/sspython/ssapp/
+A/A0/jubujjamer/Toshiba/sspython/ssapp/main.cpp
+A/A0/jubujjamer/Toshiba/sspython/ssapp/main.py
+A/A0/jubujjamer/Toshiba/sspython/ssapp/main.py~
+A/A0/jubujjamer/Toshiba/sspython/ssapp/main.ui
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.cpp
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.h
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.py
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.pyc
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.py~
+A/A0/jubujjamer/Toshiba/sspython/ssapp/mainwindow.ui
+A/A0/jubujjamer/Toshiba/sspython/ssapp/makefile
+A/A0/jubujjamer/Toshiba/sspython/ssapp/ssapp.pro
+A/A0/jubujjamer/Toshiba/sspython/ssapp/ssapp.pro.user
+A/A0/jubujjamer/UCNP_old/
+A/A0/jubujjamer/UCNP_old/Ftest.m
+A/A0/jubujjamer/UCNP_old/FtestExcit.m
+A/A0/jubujjamer/UCNP_old/Ftest_ex.m
+A/A0/jubujjamer/UCNP_old/QianLP.pdf
+A/A0/jubujjamer/UCNP_old/UCNPExcit.m
+A/A0/jubujjamer/UCNP_old/UCNPMeds.pptm
+A/A0/jubujjamer/UCNP_old/UCNPRel.m
+A/A0/jubujjamer/UCNP_old/createFit.m
+A/A0/jubujjamer/UCNP_old/example.met
+A/A0/jubujjamer/UCNP_old/exponentialFit.m
+A/A0/jubujjamer/UCNP_old/exponentialMixtureFit.m
+A/A0/jubujjamer/UCNP_old/f_test.m
+A/A0/jubujjamer/UCNP_old/filename.pdf
+A/A0/jubujjamer/UCNP_old/filterData.m
+A/A0/jubujjamer/UCNP_old/gof_test.m
+A/A0/jubujjamer/UCNP_old/lec18n.pdf
+A/A0/jubujjamer/UCNP_old/met_create.py
+A/A0/jubujjamer/UCNP_old/multiFit.m
+A/A0/jubujjamer/UCNP_old/openSample.m
+A/A0/jubujjamer/UCNP_old/rand_sp.m
+A/A0/jubujjamer/UCNP_old/rates.sbproj
+A/A0/jubujjamer/UCNP_old/replace.sh
+A/A0/jubujjamer/UCNP_old/shortrev.aux
+A/A0/jubujjamer/UCNP_old/shortrev.log
+A/A0/jubujjamer/UCNP_old/shortrev.pdf
+A/A0/jubujjamer/UCNP_old/shortrev.synctex.gz
+A/A0/jubujjamer/UCNP_old/shortrev.tex
+A/A0/jubujjamer/UCNP_old/simulated.m
+A/A0/jubujjamer/UCNP_old/untitled.sbproj
+A/A0/jubujjamer/UCNP_old/EspectroApogee/
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calAzul_0001.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calAzul_0001.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calAzul_0001.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calRojo_0001.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calRojo_0001.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calRojo_0001.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calVerde_0001.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calVerde_0001.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/calVerde_0001.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM001_uncal_0001.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM001_uncal_0001.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM001_uncal_0001.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM_uncal_0004.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM_uncal_0004.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specM_uncal_0004.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specNoise_uncal_0003.dat
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specNoise_uncal_0003.tif
+A/A0/jubujjamer/UCNP_old/EspectroApogee/specNoise_uncal_0003.txt
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/Untitled.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/calibrate.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/calibrate2.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/calibrate_with_width.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/centers_calibration.fig
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/comparo_osa_espectrometro.fig
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/generate_spectra_from_images.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/plot_spectra.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/read_metadata.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/read_spectra.m
+A/A0/jubujjamer/UCNP_old/EspectroApogee/espectrometro_Apogee_Matlab/test_calibrate.m
+A/A0/jubujjamer/UCNP_old/EspectroOSA/
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/ApagoyVuelvo.pdf
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/ApagoyVuelvoEst.pdf
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/estacionario.pdf
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/inicial.pdf
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_001.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_002.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_003.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_004.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_005.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_006.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/laser980_007.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/LASER200mw/varTempLaser.pdf
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/LEEME.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/Laser980.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/UC02.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/UC03.txt
+A/A0/jubujjamer/UCNP_old/EspectroOSA/MuestraUCNP/UCNP.txt
+A/A0/jubujjamer/UCNP_old/UCNP/
+A/A0/jubujjamer/UCNP_old/UCNP/Varios_filtros.pdf
+A/A0/jubujjamer/UCNP_old/UCNP/Varios_filtros.pptx
+A/A0/jubujjamer/UCNP_old/UCNP/example.met
+A/A0/jubujjamer/UCNP_old/UCNP/example.met~
+A/A0/jubujjamer/UCNP_old/UCNP/intensities.m
+A/A0/jubujjamer/UCNP_old/UCNP/metafile_description.txt
+A/A0/jubujjamer/UCNP_old/UCNP/metafile_description.txt~
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/A.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/A.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/B.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/B.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/CC.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/CC.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/D.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/D.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/D573.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/E.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/E.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/ESP680.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/ESP680.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/GG.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/GG.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/H.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/H.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/I.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/I.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/J.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/J.dat
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/K.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/K.csv
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/K.dat
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/L.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/M.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/N.SPC
+A/A0/jubujjamer/UCNP_old/UCNP/filters_spec/N.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/example.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/filterData.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/intensities.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/lifetime.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/lifetime_all_filters.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/lifetime_filters.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/met_create.py
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/met_create.py~
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/multiFit.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/openSample.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/open_file.py
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/open_file.py~
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/open_spec.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/open_spec.py
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/open_spec.py~
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/processMultipleData.m
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_001_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/A/A_002_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_001_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_001_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_002_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_002_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_003_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_003_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_004_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_005_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_006_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_007_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_008_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_009_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_001.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_002.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_003.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_004.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/B_010_005.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/replace.sh
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/B_converted/replace.sh~
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_001_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_001_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_002_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_002_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_003_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_003_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_004_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_004_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_005_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_005_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_006_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_006_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_007_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_007_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_008_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_008_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_009_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/C_009_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/C/s_t01_ac01.txt
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_001_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_001_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_002_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_002_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_003_001.csv
+A/A0/jubujjamer/UCNP_old/UCNP/samples_NI/D/D_003_001.met
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/UCNP.spv
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/UCNPMeds.pptm
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/s.png
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/s1.csv
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/s1.spf2
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/s1.txt
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec.pdf
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec2.pdf
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec2.png
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec3.pdf
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec3.png
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec_read.asv
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/spec_read.m
+A/A0/jubujjamer/UCNP_old/UCNP/spectrum/untitled.png
+A/A0/jubujjamer/UCNP_old/UV1800/
+A/A0/jubujjamer/UCNP_old/UV1800/CData/
+A/A0/jubujjamer/UCNP_old/UV1800/CData/J.SPC
+A/A0/jubujjamer/UCNP_old/UV1800/CData/K.SPC
+A/A0/jubujjamer/UCNP_old/documents/
+A/A0/jubujjamer/UCNP_old/documents/2013_0106.odp
+A/A0/jubujjamer/UCNP_old/documents/2013_0106.pdf
+A/A0/jubujjamer/UCNP_old/documents/2016_0111.odp
+A/A0/jubujjamer/UCNP_old/documents/2016_0111.pdf
+A/A0/jubujjamer/UCNP_old/documents/2016_0112.odp
+A/A0/jubujjamer/UCNP_old/documents/Dolgaleva_JOSAB_07.pdf
+A/A0/jubujjamer/UCNP_old/documents/SII_filtA.png
+A/A0/jubujjamer/UCNP_old/documents/SII_filtJ.png
+A/A0/jubujjamer/UCNP_old/documents/Supporting Information.pdf
+A/A0/jubujjamer/UCNP_old/documents/UCNPMeds.pdf
+A/A0/jubujjamer/UCNP_old/documents/UCNP_diag.svg
+A/A0/jubujjamer/UCNP_old/documents/Varios_filtros.pdf
+A/A0/jubujjamer/UCNP_old/documents/Varios_filtros.pptx
+A/A0/jubujjamer/UCNP_old/documents/jp305882j.pdf
+A/A0/jubujjamer/UCNP_old/documents/materials-07-07289.pdf
+A/A0/jubujjamer/UCNP_old/documents/ome-3-7-989.pdf
+A/A0/jubujjamer/UCNP_old/documents/spectrum_SI_SII.png
+A/A0/jubujjamer/UCNP_old/documents/zhao2013.pdf
+A/A0/jubujjamer/UCNP_old/documents/analisis/
+A/A0/jubujjamer/UCNP_old/documents/analisis/process.png
+A/A0/jubujjamer/UCNP_old/documents/analisis/process.svg
+A/A0/jubujjamer/UCNP_old/filters_spec/
+A/A0/jubujjamer/UCNP_old/filters_spec/A.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/A.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/B.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/B.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/CC.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/CC.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/D.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/D.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/D573.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/E.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/E.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/ESP680.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/ESP680.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/GG.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/GG.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/H.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/H.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/I.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/I.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/J.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/J.dat
+A/A0/jubujjamer/UCNP_old/filters_spec/K.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/K.csv
+A/A0/jubujjamer/UCNP_old/filters_spec/K.dat
+A/A0/jubujjamer/UCNP_old/filters_spec/L.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/M.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/N.SPC
+A/A0/jubujjamer/UCNP_old/filters_spec/N.csv
+A/A0/jubujjamer/UCNP_old/img/
+A/A0/jubujjamer/UCNP_old/img/ExRel.svg
+A/A0/jubujjamer/UCNP_old/img/ExcitAvg256_1.pdf
+A/A0/jubujjamer/UCNP_old/img/RelaxAvg256_2.pdf
+A/A0/jubujjamer/UCNP_old/img/excit2.pdf
+A/A0/jubujjamer/UCNP_old/img/excitacion.pdf
+A/A0/jubujjamer/UCNP_old/img/relajacion.pdf
+A/A0/jubujjamer/UCNP_old/img/relax2.pdf
+A/A0/jubujjamer/UCNP_old/organization/
+A/A0/jubujjamer/UCNP_old/organization/example.met
+A/A0/jubujjamer/UCNP_old/organization/metafile_description.txt
+A/A0/jubujjamer/UCNP_old/samples/
+A/A0/jubujjamer/UCNP_old/samples/DownLaser.pdf
+A/A0/jubujjamer/UCNP_old/samples/DownLaser.png
+A/A0/jubujjamer/UCNP_old/samples/DownUp
+A/A0/jubujjamer/UCNP_old/samples/DownUp2
+A/A0/jubujjamer/UCNP_old/samples/DownUp3
+A/A0/jubujjamer/UCNP_old/samples/DownUpMean1
+A/A0/jubujjamer/UCNP_old/samples/DownUpMean1_meta
+A/A0/jubujjamer/UCNP_old/samples/ExcitAvg256_1
+A/A0/jubujjamer/UCNP_old/samples/ExcitAvg256_1_meta
+A/A0/jubujjamer/UCNP_old/samples/LaserUp1
+A/A0/jubujjamer/UCNP_old/samples/MultiDecay
+A/A0/jubujjamer/UCNP_old/samples/RelaxAvg256_1
+A/A0/jubujjamer/UCNP_old/samples/RelaxAvg256_2
+A/A0/jubujjamer/UCNP_old/samples/RelaxAvg256_2_meta
+A/A0/jubujjamer/UCNP_old/samples/RelaxAvg8_1
+A/A0/jubujjamer/UCNP_old/samples/UpLaser.pdf
+A/A0/jubujjamer/UCNP_old/samples/UpLaser.png
+A/A0/jubujjamer/UCNP_old/samples/UpToDown
+A/A0/jubujjamer/UCNP_old/samples/UpToDown1
+A/A0/jubujjamer/UCNP_old/samples/UpToDownMean1
+A/A0/jubujjamer/UCNP_old/samples/UpToDownMean2
+A/A0/jubujjamer/UCNP_old/samples/laserDown1
+A/A0/jubujjamer/UCNP_old/samples/oscControlpy
+A/A0/jubujjamer/UCNP_old/samples_NI/
+A/A0/jubujjamer/UCNP_old/samples_NI/Untitled Document
+A/A0/jubujjamer/UCNP_old/samples_NI/example.met
+A/A0/jubujjamer/UCNP_old/samples_NI/filterData.m
+A/A0/jubujjamer/UCNP_old/samples_NI/index.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/index.txt~
+A/A0/jubujjamer/UCNP_old/samples_NI/intensities.m
+A/A0/jubujjamer/UCNP_old/samples_NI/lifetime.m
+A/A0/jubujjamer/UCNP_old/samples_NI/lifetime_all_filters.m
+A/A0/jubujjamer/UCNP_old/samples_NI/lifetime_filters.m
+A/A0/jubujjamer/UCNP_old/samples_NI/met_create.py
+A/A0/jubujjamer/UCNP_old/samples_NI/met_create.py~
+A/A0/jubujjamer/UCNP_old/samples_NI/multiFit.m
+A/A0/jubujjamer/UCNP_old/samples_NI/openSample.m
+A/A0/jubujjamer/UCNP_old/samples_NI/open_file.py
+A/A0/jubujjamer/UCNP_old/samples_NI/open_file.py~
+A/A0/jubujjamer/UCNP_old/samples_NI/open_spec.m
+A/A0/jubujjamer/UCNP_old/samples_NI/open_spec.py
+A/A0/jubujjamer/UCNP_old/samples_NI/open_spec.py~
+A/A0/jubujjamer/UCNP_old/samples_NI/processMultipleData.m
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_002.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_002.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_002.met~
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_003.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_003.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_003.met~
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_004.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_004.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_004.met~
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_005.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_005.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_005.met~
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_006.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0106/E_001_006.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0108/
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0108/F_001_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0108/F_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0108/F_002_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0108/F_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_001_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_002_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_003_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_003_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_005_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_005_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_006_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_006_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_007_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/2016_0111/G_007_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/A/
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_001_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/A/A_002_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_001_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_002_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_003_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_003_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_004_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_005_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_006_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_007_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_008_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_009_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B/B_010_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_001_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_002_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_003_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_003_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_004_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_005_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_006_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_007_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_008_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_008_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_009_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_009_001.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_009_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_009_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_010_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_010_002.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_010_003.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_010_004.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/B_010_005.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/replace.sh
+A/A0/jubujjamer/UCNP_old/samples_NI/B_converted/replace.sh~
+A/A0/jubujjamer/UCNP_old/samples_NI/C/
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_001_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_002_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_003_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_003_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_004_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_004_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_005_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_005_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_006_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_006_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_007_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_007_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_008_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_008_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_009_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/C/C_009_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/C/s_t01_ac01.txt
+A/A0/jubujjamer/UCNP_old/samples_NI/D/
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_001_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_001_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_002_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_002_001.met
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_003_001.csv
+A/A0/jubujjamer/UCNP_old/samples_NI/D/D_003_001.met
+A/A0/jubujjamer/UCNP_old/scripts/
+A/A0/jubujjamer/UCNP_old/scripts/aquire_linearize.py
+A/A0/jubujjamer/UCNP_old/scripts/intensities.m
+A/A0/jubujjamer/UCNP_old/scripts/lifetime_measure_daq.py
+A/A0/jubujjamer/UCNP_old/scripts/metafile.py
+A/A0/jubujjamer/UCNP_old/scripts/metafile.pyc
+A/A0/jubujjamer/UCNP_old/scripts/open_lifetime.py
+A/A0/jubujjamer/UCNP_old/scripts/open_lifetime.py~
+A/A0/jubujjamer/UCNP_old/scripts/open_spectrum.py
+A/A0/jubujjamer/UCNP_old/scripts/read_voltage.py
+A/A0/jubujjamer/UCNP_old/spectrum/
+A/A0/jubujjamer/UCNP_old/spectrum/SII.csv
+A/A0/jubujjamer/UCNP_old/spectrum/UCNP.spv
+A/A0/jubujjamer/UCNP_old/spectrum/UCNPMeds.pptm
+A/A0/jubujjamer/UCNP_old/spectrum/csv_read.py
+A/A0/jubujjamer/UCNP_old/spectrum/eye_resp.csv
+A/A0/jubujjamer/UCNP_old/spectrum/s.png
+A/A0/jubujjamer/UCNP_old/spectrum/s1.csv
+A/A0/jubujjamer/UCNP_old/spectrum/s1.spf2
+A/A0/jubujjamer/UCNP_old/spectrum/s1.txt
+A/A0/jubujjamer/UCNP_old/spectrum/spec.pdf
+A/A0/jubujjamer/UCNP_old/spectrum/spec2.pdf
+A/A0/jubujjamer/UCNP_old/spectrum/spec2.png
+A/A0/jubujjamer/UCNP_old/spectrum/spec3.pdf
+A/A0/jubujjamer/UCNP_old/spectrum/spec3.png
+A/A0/jubujjamer/UCNP_old/spectrum/spec_read.asv
+A/A0/jubujjamer/UCNP_old/spectrum/spec_read.m
+A/A0/jubujjamer/UCNP_old/spectrum/untitled.png
+A/A0/jubujjamer/UCNP_old/spectrum/EspectroApogee/
+A/A0/jubujjamer/UCNP_old/spectrum/EspectroApogee/espectrometro_Apogee_Matlab/
+A/A0/jubujjamer/UCNP_old/spectrum/EspectroOSA/
+A/A0/jubujjamer/UCNP_old/spectrum/EspectroOSA/LASER200mw/
+A/A0/jubujjamer/UCNP_old/spectrum/EspectroOSA/MuestraUCNP/
+A/A0/jubujjamer/UCNP_old/spectrum/UV1800/
+A/A0/jubujjamer/UCNP_old/spectrum/UV1800/CData/
+A/A0/jubujjamer/UCNP_old/spectrum/UV1800/CData/J.SPC
+A/A0/jubujjamer/UCNP_old/spectrum/UV1800/CData/K.SPC
+A/A0/jubujjamer/UCNP_old/spectrum/samples_spectra/
+A/A0/jubujjamer/doctorado/
+A/A0/jubujjamer/doctorado/UCNP/
+A/A0/jubujjamer/doctorado/UCNP/documents/
+A/A0/jubujjamer/doctorado/UCNP/documents/.~lock.2016_0106.odp#
+A/A0/jubujjamer/doctorado/UCNP/documents/.~lock.2016_0111.odp#
+A/A0/jubujjamer/doctorado/UCNP/documents/.~lock.INFORME ACTIVIDADES REALIZADAS-Marzo2016.docx#
+A/A0/jubujjamer/doctorado/UCNP/documents/INFORME ACTIVIDADES REALIZADAS-Marzo2016.docx
+A/A0/jubujjamer/doctorado/UCNP/documents/INFORME ACTIVIDADES REALIZADAS-Marzo2016.dot
+A/A0/jubujjamer/doctorado/UCNP/documents/INFORME ACTIVIDADES REALIZADAS-Marzo2016.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/bajada.png
+A/A0/jubujjamer/doctorado/UCNP/documents/g54.png
+A/A0/jubujjamer/doctorado/UCNP/documents/setup2.png
+A/A0/jubujjamer/doctorado/UCNP/documents/setup2.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/E_001_003_log.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/E_001_005_log.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/Fig4.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/Fig7.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/G_006_001_log.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/G_007_001_fit.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/G_007_001_log.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/INFORME ACTIVIDADES REALIZADAS-Marzo2016.docx
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/INFORME ACTIVIDADES REALIZADAS-Marzo2016.dot
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SI.tif
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SII_lifetimes.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SII_spec.png
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SI_lifetimes.png
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SI_lifetimes.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/SI_spec.png
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/setup2.png
+A/A0/jubujjamer/doctorado/UCNP/documents/informe_marzo_2016/setup2.svg
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/UCNP
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/UCNP.bak
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/UCNP.bib
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/1-s2.0-S0003267014004681-main.pdf ln +3.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/1-s2.0-S0026269207000870-main.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/1.4812578.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/6208x1631.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/Discrete Sums for the Rapid Determination of Exponential Decay Co.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/art%3A10.1186%2F1556-276X-8-81.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/j150620a019.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/lm.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/ncomms4741-s1.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/oc97.pdf
+A/A0/jubujjamer/doctorado/UCNP/filters_spec/
+A/A0/jubujjamer/doctorado/UCNP/meds/
+A/A0/jubujjamer/doctorado/UCNP/meds/PID_cal.met
+A/A0/jubujjamer/doctorado/UCNP/meds/PID_cal.met~
+A/A0/jubujjamer/doctorado/UCNP/meds/PID_cal.txt
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_A-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_A-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_B-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_B-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_C-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_C-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_D-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_D-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_E-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-02-24/2016-02-24_E-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_003.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_003.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_004.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_004.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_005.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0106/E_001_005.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_001_001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_001_001.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_006_001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_006_001.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_007_001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016_0111/G_007_001.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/C/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/C/.~lock.C_009_001.csv#
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/C/C_009_001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/C/C_009_001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/C/C_009_001.met~
+A/A0/jubujjamer/doctorado/UCNP/scripts/
+A/A0/jubujjamer/doctorado/lab_notebook/
+A/A0/jubujjamer/doctorado/lab_notebook/index.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/index.adoc~
+A/A0/jubujjamer/doctorado/lab_notebook/index.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-04/2016-01-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-05/2016-01-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-06/2016-01-06.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-08/2016-01-08.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-11/2016-01-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-26/2016-01-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-27/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-27/.~lock.2016-01-27.odp#
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-27/.~lock.2016-01-27.pptx#
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-27/2016-01-27.pptx
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-28/2016-01-28.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.adoc~
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/SMA_SD2000.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/2016-01-30.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/2016-01-30.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.adoc~
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/current.asc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/pulsador_laser.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/2016-02-02.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/2016-02-02.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/2016-02-03.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/2016-02-03.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/2016-02-04.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/2016-02-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/2016-02-05.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/2016-02-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/Coupling_fibers.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/LED's & Lasers 980nm.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/Lasers_vs_LEDs_LaserAdvantage_no1_Spatial_Brightness.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/U2300A Adquisicion de Datos.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/smb1n-970.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/Ajuste_multiexponencial.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/Pruebas de ajuste multiexponencial.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/Pruebas de ajuste multiexponencial.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/.ipynb_checkpoints/Pruebas de ajuste multiexponencial-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.adoc~
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/G_001_001_fit.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/Pruebas reales.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/pruebas_reales.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/.ipynb_checkpoints/Pruebas reales-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/E_001_003_log.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/E_001_005_log.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/Fig4.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/Fig7.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/G_006_001_log.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/G_007_001_fit.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/G_007_001_log.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/Imagenes para informe.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SI.tif
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SII_lifetimes.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SII_spec.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SI_lifetimes.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SI_lifetimes.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/SI_spec.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/.ipynb_checkpoints/Imagenes para informe-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/Imagenes para informe.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/PID_cal.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/.ipynb_checkpoints/Imagenes para informe-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/2016-02-22.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/2016-02-22.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/2016-02-23.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/2016-02-23.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/KG5.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/2016-02-24.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/2016-02-24.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/2016-02-25.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/2016-02-25.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/docs/
+A/A0/jubujjamer/doctorado/lab_notebook/docs/daq.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/docs/daq.html
+A/A0/jubujjamer/doctorado/lab_notebook/docs/org_carpetas.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/docs/sintesis.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/docs/sintesis.html
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/.~lock.inventario.ods#
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/inventario.csv
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/inventario.ods
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/irlml6244pbf.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/smb1n-980d.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/init
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/init.sh
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/make_before_go
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/make_zbackup
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/refresh.sh
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/refresh.sh~
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/refresh_index.py
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/start_day.py
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/start_day.py~
+A/A0/jubujjamer/doctorado/pumpprobe/
+A/A0/jubujjamer/doctorado/pumpprobe/2014_lanzillotti_kimura_Ultrafast acousto-plasmonic control and sensing.pdf
+A/A0/jubujjamer/doctorado/pumpprobe/Complementary_2014_lanzillotti_kimura_Ultrafast acousto-plasmonic control and sensing.pdf
+A/A0/jubujjamer/doctorado/pumpprobe/sphere.mph
+A/A0/jubujjamer/doctorado/pumpprobe/verma1999.pdf
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/AP_est.m
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/Leeme.txt
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/signal_generation.asv
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/test1.m
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/test2.m
+A/A0/jubujjamer/doctorado/pumpprobe/DampedProcessing/test3.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/
+A/A0/jubujjamer/doctorado/pumpprobe/damped/AP_est.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/damped.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/fIpDFTd.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/fKT.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/fMatPen.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/fSTMCB.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/fYoshida.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/testv2.m
+A/A0/jubujjamer/doctorado/pumpprobe/damped/v10178-011-0051-y.pdf
+A/A0/jubujjamer/img/
+A/A0/jubujjamer/img/calibra.svg
+A/A0/jubujjamer/img/p1.jpg
+A/A0/jubujjamer/img/p2.jpg
+A/A0/jubujjamer/img/setup1.png
+A/A0/jubujjamer/img/setup1.svg
+A/A0/jubujjamer/img/setup_fotos.png
+A/A0/jubujjamer/misc/
+A/A0/jubujjamer/misc/DAQmx ANSI C Dev/
+A/A0/jubujjamer/misc/DAQmx ANSI C Dev/include/
+A/A0/jubujjamer/misc/DAQmx ANSI C Dev/include/NIDAQmx.h
+A/A0/jubujjamer/music_transfer/
+A/A0/mcrespo/Física/
+A/A0/mcrespo/Física/Administración.xlsx
+A/A0/mcrespo/Física/Jeringas/
+A/A0/mcrespo/Física/Jeringas/Porgrama1/
+A/A0/mcrespo/Física/Jeringas/Porgrama1/Porgrama1.ino
+A/A0/mcrespo/Física/Jeringas/Porgrama1/interrupciones/
+A/A0/mcrespo/Física/Jeringas/Porgrama1/interrupciones/interrupciones.ino
+A/A0/mcrespo/Física/Jeringas/Porgrama1/interrupciones/interrupciones2/
+A/A0/mcrespo/Física/Jeringas/Porgrama1/interrupciones/interrupciones2/interrupciones2.ino
+A/A0/mcrespo/Física/Jeringas/Prueba/
+A/A0/mcrespo/Física/Jeringas/Prueba/Prueba.ino
+A/A0/mcrespo/Física/Jeringas/Prueba2/
+A/A0/mcrespo/Física/Jeringas/Prueba2/Prueba2.ino
+A/A0/mcrespo/Física/Jeringas/prueba_serie/
+A/A0/mcrespo/Física/Jeringas/prueba_serie/prueba_serie.ino
+A/A0/mcrespo/Física/Platina termica/
+A/A0/mcrespo/Física/Platina termica/Backup Of control.DBK
+A/A0/mcrespo/Física/Platina termica/Contrafrente.jpg
+A/A0/mcrespo/Física/Platina termica/Dibujos.vsd
+A/A0/mcrespo/Física/Platina termica/Frente.jpg
+A/A0/mcrespo/Física/Platina termica/Last Loaded control.DBK
+A/A0/mcrespo/Física/Platina termica/Placa(botton).jpg
+A/A0/mcrespo/Física/Platina termica/Placa(top).jpg
+A/A0/mcrespo/Física/Platina termica/Proteus DSO Printing.pdf
+A/A0/mcrespo/Física/Platina termica/Prototipo de platina térmica.docx
+A/A0/mcrespo/Física/Platina termica/Racknet.jpg
+A/A0/mcrespo/Física/Platina termica/RadioAceto.jpg
+A/A0/mcrespo/Física/Platina termica/control.DSN
+A/A0/mcrespo/Física/Platina termica/control.PWI
+A/A0/mcrespo/Física/Platina termica/lm35.pdf
+A/A0/mcrespo/Física/Platina termica/platina.jpg
 A/A0/mgabriel/Analisis trayectorias NPs/
 A/A0/mgabriel/Analisis trayectorias NPs/Akaike.m
+A/A0/mgabriel/Analisis trayectorias NPs/segments_clusters_andJanalysis.m
+A/A0/transfer/
 
-Number of files: 203,785 (reg: 189,733, dir: 13,543, link: 509)
-Number of created files: 233 (reg: 146, dir: 87)
-Number of regular files transferred: 173
-Total file size: 76,588,942,376 bytes
-Total transferred file size: 113,021,975 bytes
-Literal data: 57,183,058 bytes
-Matched data: 55,838,917 bytes
-File list size: 1,195,941
+Number of files: 204,182 (reg: 190,036, dir: 13,637, link: 509)
+Number of created files: 1,060 (reg: 916, dir: 144)
+Number of regular files transferred: 953
+Total file size: 77,919,460,943 bytes
+Total transferred file size: 1,629,477,729 bytes
+Literal data: 1,619,918,167 bytes
+Matched data: 9,559,562 bytes
+File list size: 1,370,604
 File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 163,699
-Total bytes received: 50,745,772
+Total bytes sent: 60,625
+Total bytes received: 844,884,983
 
-sent 163,699 bytes  received 50,745,772 bytes  207,370.55 bytes/sec
-total size is 76,588,942,376  speedup is 1,504.41
+sent 60,625 bytes  received 844,884,983 bytes  511,313.53 bytes/sec
+total size is 77,919,460,943  speedup is 92.22

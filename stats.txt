@@ -1,17 +1,179 @@
 receiving incremental file list
+A/A0/jubujjamer/doctorado/
+A/A0/jubujjamer/doctorado/Schematics/
+A/A0/jubujjamer/doctorado/Schematics/LaserPulser.T3001
+A/A0/jubujjamer/doctorado/Schematics/BackupFiles/
+A/A0/jubujjamer/doctorado/Schematics/BackupFiles/LaserPulser.BK1
+A/A0/jubujjamer/doctorado/Schematics/BackupFiles/LaserPulser.BK2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.s#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.s#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.s#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411C.lib
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411C.lib~
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.s#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.s#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b##
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#5
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#6
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#7
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#8
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.b#9
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#5
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#6
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#7
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#8
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.s#9
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/LF411_smd_ssply~renumsch.scr
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.asc
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.log
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.op.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/lm324.LIB
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/DRILEGEND.CFG
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#5
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#6
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#7
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#8
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#9
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.dru
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.pdf
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s##
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#5
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom_DL.scr
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/brd.pdf
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/drilegend.lbr
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/sch.pdf
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/spice/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/spice/LF411C.lib
+A/A0/jubujjamer/doctorado/docs/
+A/A0/jubujjamer/doctorado/docs/Optimizing-Precision-Photodiode-Sensor-Circuit-Design-MS-2624.pdf
+A/A0/jubujjamer/doctorado/docs/calculations_over_pd_amplifiers.pdf
+A/A0/jubujjamer/doctorado/docs/frontends-Photodiods.pdf
+A/A0/jubujjamer/doctorado/docs/photodiode_amp0-nationalsemicon.pdf
+A/A0/jubujjamer/doctorado/docs/sboa061.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/
+A/A0/jubujjamer/doctorado/lab_notebook/index.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/index.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-04/2016-01-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-05/2016-01-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-06/2016-01-06.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-08/2016-01-08.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-11/2016-01-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-26/2016-01-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-28/2016-01-28.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/2016-01-30.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/2016-02-02.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/2016-02-03.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/2016-02-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/2016-02-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/2016-02-22.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/2016-02-23.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/2016-02-24.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/2016-02-25.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/2016-02-29.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/2016-02-29.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/Untitled.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-01/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-01/2016-03-01.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-01/2016-03-01.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.html
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/.~lock.inventario.ods#
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/EPD-520-1_09.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/inventario/datasheets/EPD-550-1_09.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/scripts/refresh.sh
+A/A0/jubujjamer/doctorado/meds/
+A/A0/jubujjamer/doctorado/pumpprobe/
+A/A0/jubujjamer/doctorado/pyfunctions/
+A/A0/jubujjamer/doctorado/pyfunctions/metafile.py
+A/A0/jubujjamer/doctorado/pyfunctions/metafile.pyc
+A/A0/jubujjamer/doctorado/pyfunctions/nonlinear_fitting.py
+A/A0/jubujjamer/doctorado/pyfunctions/nonlinear_fitting.pyc
+A/A0/jubujjamer/doctorado/pyfunctions/open_lifetime.py
+A/A0/jubujjamer/doctorado/pyfunctions/open_lifetime.pyc
+A/A0/mcrespo/Física/Jeringas/
+A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos.pdf
+A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/
+A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/Direccion_y_pasos.ino
+A/A0/mcrespo/Física/Jeringas/L298N/
+A/A0/mcrespo/Física/Jeringas/L298N/L298N.ino
+A/A0/mcrespo/Física/Jeringas/Prueba/
+A/A0/mcrespo/Física/Jeringas/Prueba/Prueba.ino
+A/A0/mcrespo/Física/Platina termica/
+A/A0/mcrespo/Física/Platina termica/Dibujos.vsd
+A/A0/mcrespo/Física/Platina termica/Prototipo de platina térmicaV2.docx
+A/A0/mcrespo/Física/Platina termica/Prototipo de platina térmicaV2.log
+A/A0/mcrespo/Física/Platina termica/control.PWI
+A/A0/mcrespo/Física/Platina termica/control.SDF
+A/A0/mcrespo/Física/Platina termica/~$$Dibujos.~vsd
+A/A0/mcrespo/Física/Platina termica/~$ototipo de platina térmica.docx
 
-Number of files: 204,182 (reg: 190,036, dir: 13,637, link: 509)
-Number of created files: 0
-Number of regular files transferred: 0
-Total file size: 77,919,460,943 bytes
-Total transferred file size: 0 bytes
-Literal data: 0 bytes
-Matched data: 0 bytes
-File list size: 1,255,827
+Number of files: 204,299 (reg: 190,141, dir: 13,649, link: 509)
+Number of created files: 117 (reg: 105, dir: 12)
+Number of regular files transferred: 140
+Total file size: 77,967,904,594 bytes
+Total transferred file size: 52,992,653 bytes
+Literal data: 51,997,828 bytes
+Matched data: 994,825 bytes
+File list size: 1,234,760
 File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 13,801
-Total bytes received: 4,838,317
+Total bytes sent: 36,377
+Total bytes received: 30,454,248
 
-sent 13,801 bytes  received 4,838,317 bytes  98,022.59 bytes/sec
-total size is 77,919,460,943  speedup is 16,058.86
+sent 36,377 bytes  received 30,454,248 bytes  403,849.34 bytes/sec
+total size is 77,967,904,594  speedup is 2,557.11

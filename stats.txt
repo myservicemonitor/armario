@@ -1,82 +1,27 @@
 receiving incremental file list
-A/A0/jubujjamer/doctorado/Schematics/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#1
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#2
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#3
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#4
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#5
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#6
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#7
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#8
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.b#9
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.brd
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.pdf
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#1
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#2
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#3
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#4
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#5
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.s#6
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V2.0/LF411_smd_ssply_bottom.sch
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.brd
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.sch
-A/A0/jubujjamer/doctorado/lab_notebook/
-A/A0/jubujjamer/doctorado/lab_notebook/index.adoc
-A/A0/jubujjamer/doctorado/lab_notebook/index.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-04/2016-01-04.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-05/2016-01-05.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-06/2016-01-06.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-08/2016-01-08.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-11/2016-01-11.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-26/2016-01-26.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-28/2016-01-28.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/2016-01-30.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/2016-02-02.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/2016-02-03.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/2016-02-04.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/2016-02-05.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/2016-02-22.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/2016-02-23.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/2016-02-24.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/2016-02-25.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/2016-02-29.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-01/2016-03-01.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.adoc
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-03/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-03/2016-03-03.adoc
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-03/2016-03-03.html
-A/A0/jubujjamer/doctorado/lab_notebook/inventario/
-A/A0/jubujjamer/doctorado/lab_notebook/inventario/inventario.ods
-A/A0/mcrespo/Física/Jeringas/L298N/
-A/A0/mcrespo/Física/Jeringas/L298N/L298N.ino
+A/A0/hgrecco/
+A/A0/hgrecco/logo_celfi.png
+A/A0/hgrecco/.AppleDesktop/.volinfo
+A/A0/hgrecco/.AppleDouble/
+A/A0/hgrecco/.AppleDouble/.Parent
+A/A0/hgrecco/.AppleDouble/logo_celfi.png
+A/A0/hgrecco/Network Trash Folder/.AppleDouble/.Parent
+A/A0/hgrecco/Temporary Items/.AppleDouble/.Parent
+A/A0/hgrecco/data/.AppleDouble/.Parent
+A/A0/hgrecco/muy_alta/.AppleDouble/.Parent
 
-Number of files: 204,306 (reg: 190,146, dir: 13,651, link: 509)
-Number of created files: 7 (reg: 5, dir: 2)
-Number of regular files transferred: 57
-Total file size: 77,970,875,462 bytes
-Total transferred file size: 12,598,541 bytes
-Literal data: 3,135,845 bytes
-Matched data: 9,462,696 bytes
-File list size: 1,314,503
+Number of files: 204,310 (reg: 190,149, dir: 13,652, link: 509)
+Number of created files: 2 (reg: 2)
+Number of regular files transferred: 8
+Total file size: 77,970,942,410 bytes
+Total transferred file size: 70,141 bytes
+Literal data: 67,071 bytes
+Matched data: 3,070 bytes
+File list size: 982,947
 File list generation time: 0.002 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 74,504
-Total bytes received: 5,422,754
+Total bytes sent: 14,048
+Total bytes received: 4,905,937
 
-sent 74,504 bytes  received 5,422,754 bytes  99,049.69 bytes/sec
-total size is 77,970,875,462  speedup is 14,183.59
+sent 14,048 bytes  received 4,905,937 bytes  108,131.54 bytes/sec
+total size is 77,970,942,410  speedup is 15,847.80

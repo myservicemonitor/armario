@@ -1,27 +1,204 @@
 receiving incremental file list
+./
+A/
+A/A0/bmoretti/Bruno/SPIM/
+A/A0/bmoretti/Bruno/SPIM/Mediciones/
+A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/
+A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001.hdf5
+A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo.tif
+A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo_ROI-1.tif
+A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo_ROI.tif
 A/A0/hgrecco/
-A/A0/hgrecco/logo_celfi.png
-A/A0/hgrecco/.AppleDesktop/.volinfo
-A/A0/hgrecco/.AppleDouble/
-A/A0/hgrecco/.AppleDouble/.Parent
-A/A0/hgrecco/.AppleDouble/logo_celfi.png
-A/A0/hgrecco/Network Trash Folder/.AppleDouble/.Parent
-A/A0/hgrecco/Temporary Items/.AppleDouble/.Parent
-A/A0/hgrecco/data/.AppleDouble/.Parent
-A/A0/hgrecco/muy_alta/.AppleDouble/.Parent
+A/A0/jubujjamer/
+A/A0/jubujjamer/Planilla Control de Gastos - Rend. N° 1.xlsx
+A/A0/jubujjamer/.Trash-1000/files/
+A/A0/jubujjamer/.Trash-1000/files/SemillaActMarzo2016.2.pdf
+A/A0/jubujjamer/.Trash-1000/files/SemillaActMarzo2016.pdf
+A/A0/jubujjamer/.Trash-1000/info/
+A/A0/jubujjamer/.Trash-1000/info/SemillaActMarzo2016.2.pdf.trashinfo
+A/A0/jubujjamer/.Trash-1000/info/SemillaActMarzo2016.pdf.trashinfo
+A/A0/jubujjamer/Innova-T/
+A/A0/jubujjamer/Innova-T/Factura de venta B 0002-00007848.pdf
+A/A0/jubujjamer/Innova-T/SemillaActMarzo2016.pdf
+A/A0/jubujjamer/Innova-T/SemillaActMarzo2016.xlsx
+A/A0/jubujjamer/Innova-T/SemillaPlanillaMarzo2016.pdf
+A/A0/jubujjamer/Innova-T/SemillaPlanillaMarzo2016.xls
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/.~lock.Modelo_Nota_Ref_FAN.docx#
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Modelo_Nota_Ref_FAN.docx
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Modelo_Nota_Ref_FANv2.docx
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Planilla Control de Gastos - Rend. N° 1.xls
+A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Planilla Rendición de Cuentas N° 1- Dr. Grecco.xls
+A/A0/jubujjamer/Limbo/
+A/A0/jubujjamer/Limbo/SemillaActMarzo2016.xlsx
+A/A0/jubujjamer/Limbo/SemillaPlanillaMarzo2016.xls
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.asc
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.log
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.op.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.asc
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.log
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.net
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.op.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.raw
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.pdf
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.sch
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/PDAMP.pdf
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#2
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#3
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.brd
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.s#1
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.sch
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/598734.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/598734.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/c3nj00065f.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/seminario Nanomedicina.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/sensors-14-16829.pdf
+A/A0/jubujjamer/doctorado/docs/
+A/A0/jubujjamer/doctorado/docs/PresentacionFiuba.odt
+A/A0/jubujjamer/doctorado/lab_notebook/
+A/A0/jubujjamer/doctorado/lab_notebook/index.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/index.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-04/2016-01-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-05/2016-01-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-06/2016-01-06.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-08/2016-01-08.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-11/2016-01-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-26/2016-01-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-28/2016-01-28.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-29/2016-01-29.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-01-30/2016-01-30.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-01/2016-02-01.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-02/2016-02-02.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-03/2016-02-03.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-04/2016-02-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-05/2016-02-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-22/2016-02-22.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-23/2016-02-23.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-24/2016-02-24.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-25/2016-02-25.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/2016-02-29.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-03/2016-03-03.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/2016-03-04.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/2016-03-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/2016-03-18.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/2016-03-18.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/2016-03-21.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/2016-03-21.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/2016-03-30.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/2016-03-30.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/setup.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/2016-03-31.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/2016-03-31.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/2016-04-01.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/2016-04-01.html
+A/A0/mcrespo/
+A/A0/mcrespo/Física/
+A/A0/mcrespo/Física/Administración.xlsx
+A/A0/mcrespo/Física/Jeringas/
+A/A0/mcrespo/Física/Jeringas/Circuito/
+A/A0/mcrespo/Física/Jeringas/Circuito/Backup Of Esquematico.DBK
+A/A0/mcrespo/Física/Jeringas/Circuito/Backup Of Esquematico.LBK
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.DSN
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.LYT
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.SDF
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.TXT
+A/A0/mcrespo/Física/Jeringas/Circuito/Last Loaded Esquematico.DBK
+A/A0/mcrespo/Física/Jeringas/Circuito/Last Loaded Esquematico.LBK
+A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/
+A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/Direccion_y_pasos.ino
+A/A0/mcrespo/Física/Jeringas/L298N/
+A/A0/mcrespo/Física/Jeringas/L298N/L298N.ino
+A/A0/mcrespo/Física/Jeringas/L298N/L298Nv2/
+A/A0/mcrespo/Física/Jeringas/L298N/L298Nv2/L298Nv2.ino
+A/A0/mcrespo/Física/Jeringas/L298N/L298Nv3/
+A/A0/mcrespo/Física/Jeringas/L298N/L298Nv3/L298Nv3.ino
+A/A0/mcrespo/Física/Jeringas/Mecánica/
+A/A0/mcrespo/Física/Jeringas/Mecánica/Acople.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Acopleplano.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/Buje.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Cursor.SLDASM
+A/A0/mcrespo/Física/Jeringas/Mecánica/Embolo.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje1.SLDASM
+A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.PDF
+A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.SLDASM
+A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.avi
+A/A0/mcrespo/Física/Jeringas/Mecánica/Jeringa.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Motor.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Palanca.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav2.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav3.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav3.STL
+A/A0/mcrespo/Física/Jeringas/Mecánica/Pie.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Pie.STL
+A/A0/mcrespo/Física/Jeringas/Mecánica/Plano de piezas.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.STL
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple2.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple2.STL
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simplev2.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simplev2.STL
+A/A0/mcrespo/Física/Jeringas/Mecánica/cuña.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/eje.PDF
+A/A0/mcrespo/Física/Jeringas/Mecánica/eje.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/eje.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/~$Acople.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/~$Acopleplano.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/~$Buje.SLDPRT
+A/A0/mcrespo/Física/Jeringas/Mecánica/~$eje.SLDDRW
+A/A0/mcrespo/Física/Jeringas/Mecánica/~$eje.SLDPRT
+A/A0/mcrespo/Lec/
+A/A0/mcrespo/Lec/Mecánica/
+A/A0/mcrespo/Lec/Mecánica/CP02_M-fabricio.SLDDRW
+A/A0/mcrespo/Lec/Mecánica/CP02_M-fabricio.SLDPRT
+A/A0/mgabriel/Analisis trayectorias NPs/
+A/A0/mgabriel/Analisis trayectorias NPs/Akaike.m
 
-Number of files: 204,310 (reg: 190,149, dir: 13,652, link: 509)
-Number of created files: 2 (reg: 2)
-Number of regular files transferred: 8
-Total file size: 77,970,942,410 bytes
-Total transferred file size: 70,141 bytes
-Literal data: 67,071 bytes
-Matched data: 3,070 bytes
-File list size: 982,947
-File list generation time: 0.002 seconds
+Number of files: 204,428 (reg: 190,255, dir: 13,664, link: 509)
+Number of created files: 125 (reg: 108, dir: 17)
+Number of regular files transferred: 150
+Total file size: 80,572,350,930 bytes
+Total transferred file size: 2,603,870,108 bytes
+Literal data: 2,601,513,787 bytes
+Matched data: 2,356,321 bytes
+File list size: 1,295,243
+File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 14,048
-Total bytes received: 4,905,937
+Total bytes sent: 34,138
+Total bytes received: 958,845,369
 
-sent 14,048 bytes  received 4,905,937 bytes  108,131.54 bytes/sec
-total size is 77,970,942,410  speedup is 15,847.80
+sent 34,138 bytes  received 958,845,369 bytes  399,449.91 bytes/sec
+total size is 80,572,350,930  speedup is 84.03

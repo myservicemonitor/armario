@@ -1,75 +1,45 @@
 receiving incremental file list
-./
-A/
-A/A0/bmoretti/Bruno/SPIM/
-A/A0/bmoretti/Bruno/SPIM/Mediciones/
-A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/
-A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001.hdf5
-A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo.tif
-A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo_ROI-1.tif
-A/A0/bmoretti/Bruno/SPIM/Mediciones/2016-02-12/488_50nm_step_500nm_0001_sinfondo_ROI.tif
-A/A0/hgrecco/
-A/A0/jubujjamer/
-A/A0/jubujjamer/Planilla Control de Gastos - Rend. N° 1.xlsx
-A/A0/jubujjamer/.Trash-1000/files/
-A/A0/jubujjamer/.Trash-1000/files/SemillaActMarzo2016.2.pdf
-A/A0/jubujjamer/.Trash-1000/files/SemillaActMarzo2016.pdf
-A/A0/jubujjamer/.Trash-1000/info/
-A/A0/jubujjamer/.Trash-1000/info/SemillaActMarzo2016.2.pdf.trashinfo
-A/A0/jubujjamer/.Trash-1000/info/SemillaActMarzo2016.pdf.trashinfo
-A/A0/jubujjamer/Innova-T/
-A/A0/jubujjamer/Innova-T/Factura de venta B 0002-00007848.pdf
-A/A0/jubujjamer/Innova-T/SemillaActMarzo2016.pdf
-A/A0/jubujjamer/Innova-T/SemillaActMarzo2016.xlsx
-A/A0/jubujjamer/Innova-T/SemillaPlanillaMarzo2016.pdf
-A/A0/jubujjamer/Innova-T/SemillaPlanillaMarzo2016.xls
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/.~lock.Modelo_Nota_Ref_FAN.docx#
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Modelo_Nota_Ref_FAN.docx
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Modelo_Nota_Ref_FANv2.docx
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Planilla Control de Gastos - Rend. N° 1.xls
-A/A0/jubujjamer/Innova-T/fwdrendicinparcialn1proyectofandr_grecco/Planilla Rendición de Cuentas N° 1- Dr. Grecco.xls
-A/A0/jubujjamer/Limbo/
-A/A0/jubujjamer/Limbo/SemillaActMarzo2016.xlsx
-A/A0/jubujjamer/Limbo/SemillaPlanillaMarzo2016.xls
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.asc
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.log
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.op.raw
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/Draft1.raw
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.asc
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.log
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.net
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.op.raw
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/PDAmp.raw
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#1
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#2
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.b#3
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.brd
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.pdf
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#1
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#2
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.s#3
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/LF411_smd_ssply_bottom.sch
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V3.0/PDAMP.pdf
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#1
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#2
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#3
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#4
+A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.b#5
 A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.brd
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.s#1
-A/A0/jubujjamer/doctorado/Schematics/PDAmp/V4.0/LF411_smd_ssply_bottom.sch
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/598734.pdf
 A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/598734.pdf
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/c3nj00065f.pdf
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/seminario Nanomedicina.pdf
-A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/sensors-14-16829.pdf
-A/A0/jubujjamer/doctorado/docs/
-A/A0/jubujjamer/doctorado/docs/PresentacionFiuba.odt
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/2de8.BGCparteIcap2.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/CPC2011.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/FULLTEXT01.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/Master_Thesis_Remko_Dijkstra VERSLAG IS NOG 1 JAAR VERTROUWELIJK%21.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/Mie-scattering-Matlab.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/NL2010.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/art%3A10.1134%2FS0030400X15040190.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/c2jm16127c.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/c2jm16127c_supinf.pdf
+A/A0/jubujjamer/doctorado/UCNP/documents/papers/pdfs/zhengwen2011.pdf
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-001.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-002.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-002.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-002.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-003.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-003.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-003.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-004.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-004.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-04/2016-04-04_A-004.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-001.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-001.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-001.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-002.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-002.met
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-002.met~
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-003.csv
+A/A0/jubujjamer/doctorado/UCNP/samples_NI/2016-04-05/2016-04-05_A-003.met
 A/A0/jubujjamer/doctorado/lab_notebook/
 A/A0/jubujjamer/doctorado/lab_notebook/index.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/index.html
@@ -91,7 +61,9 @@ A/A0/jubujjamer/doctorado/lab_notebook/2016-02-10/2016-02-10.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-11/2016-02-11.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-12/2016-02-12.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-15/2016-02-15.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/2016-02-16.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-02-16/Pruebas de ajuste multiexponencial.ipynb
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-17/2016-02-17.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-18/2016-02-18.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-19/2016-02-19.html
@@ -103,102 +75,99 @@ A/A0/jubujjamer/doctorado/lab_notebook/2016-02-26/2016-02-26.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-02-29/2016-02-29.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-02/2016-03-02.html
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-03/2016-03-03.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/2016-03-04.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-04/2016-03-04.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/2016-03-18.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-18/2016-03-18.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/2016-03-21.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-21/2016-03-21.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/2016-03-30.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/2016-03-30.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-30/setup.svg
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/2016-03-31.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-03-31/2016-03-31.html
-A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/
-A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/2016-04-01.adoc
 A/A0/jubujjamer/doctorado/lab_notebook/2016-04-01/2016-04-01.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/2016-04-04.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/2016-04-04.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/G_001_001_fit.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/Untitled.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-04/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/2016-04-05.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/2016-04-05.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/Untitled.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-05/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/2016-04-06.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/2016-04-06.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/Mie coefficients-scan-wavelength.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/Mie_rates.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/Untitled.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/Untitled1.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/.ipynb_checkpoints/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/.ipynb_checkpoints/Mie coefficients-scan-wavelength-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/.ipynb_checkpoints/Mie_rates-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-06/.ipynb_checkpoints/Untitled1-checkpoint.ipynb
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-11/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-11/2016-04-11.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-11/2016-04-11.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-11/96.jpg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-11/96wells.svg
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/2016-04-12.adoc
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/2016-04-12.html
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/Qbext_1u.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/Qbext_1u.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/Qbext_big.pdf
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/Qbext_big.png
+A/A0/jubujjamer/doctorado/lab_notebook/2016-04-12/grafs.svg
+A/A0/jubujjamer/doctorado/pyfunctions/
+A/A0/jubujjamer/doctorado/pyfunctions/nonlinear_fitting.py
+A/A0/jubujjamer/doctorado/pyfunctions/nonlinear_fitting.pyc
+A/A0/jubujjamer/doctorado/pyfunctions/nonlinear_fitting.py~
 A/A0/mcrespo/
+A/A0/mcrespo/analisis.jpg
 A/A0/mcrespo/Física/
-A/A0/mcrespo/Física/Administración.xlsx
 A/A0/mcrespo/Física/Jeringas/
+A/A0/mcrespo/Física/Jeringas/Raio aceto.jpg
+A/A0/mcrespo/Física/Jeringas/SYC.jpg
+A/A0/mcrespo/Física/Jeringas/casa santos.jpg
 A/A0/mcrespo/Física/Jeringas/Circuito/
-A/A0/mcrespo/Física/Jeringas/Circuito/Backup Of Esquematico.DBK
+A/A0/mcrespo/Física/Jeringas/Circuito/Arduino UNO Shield adaptado.DSN
+A/A0/mcrespo/Física/Jeringas/Circuito/Arduino UNO Shield adaptado.LYT
+A/A0/mcrespo/Física/Jeringas/Circuito/Arduino UNO Shield adaptado.SDF
+A/A0/mcrespo/Física/Jeringas/Circuito/Arduino UNO Shield adaptado.TXT
 A/A0/mcrespo/Física/Jeringas/Circuito/Backup Of Esquematico.LBK
 A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.DSN
 A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.LYT
 A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.SDF
-A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.TXT
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico.ZIP
+A/A0/mcrespo/Física/Jeringas/Circuito/Last Loaded Arduino UNO Shield adaptado.DBK
 A/A0/mcrespo/Física/Jeringas/Circuito/Last Loaded Esquematico.DBK
 A/A0/mcrespo/Física/Jeringas/Circuito/Last Loaded Esquematico.LBK
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/Esquematico.emn
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/Esquematico.emp
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/esquematico.SLDASM
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/esquematicousado.emn
+A/A0/mcrespo/Física/Jeringas/Circuito/Esquematico/esquematicousado.emp
 A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/
 A/A0/mcrespo/Física/Jeringas/Direccion_y_pasos/Direccion_y_pasos.ino
-A/A0/mcrespo/Física/Jeringas/L298N/
-A/A0/mcrespo/Física/Jeringas/L298N/L298N.ino
-A/A0/mcrespo/Física/Jeringas/L298N/L298Nv2/
-A/A0/mcrespo/Física/Jeringas/L298N/L298Nv2/L298Nv2.ino
-A/A0/mcrespo/Física/Jeringas/L298N/L298Nv3/
-A/A0/mcrespo/Física/Jeringas/L298N/L298Nv3/L298Nv3.ino
-A/A0/mcrespo/Física/Jeringas/Mecánica/
-A/A0/mcrespo/Física/Jeringas/Mecánica/Acople.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Acopleplano.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/Buje.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Cursor.SLDASM
-A/A0/mcrespo/Física/Jeringas/Mecánica/Embolo.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje1.SLDASM
-A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.PDF
-A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.SLDASM
-A/A0/mcrespo/Física/Jeringas/Mecánica/Ensamblaje2.avi
-A/A0/mcrespo/Física/Jeringas/Mecánica/Jeringa.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Motor.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Palanca.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav2.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav3.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Palancav3.STL
-A/A0/mcrespo/Física/Jeringas/Mecánica/Pie.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Pie.STL
-A/A0/mcrespo/Física/Jeringas/Mecánica/Plano de piezas.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/Plano.STL
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple2.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simple2.STL
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simplev2.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña simplev2.STL
-A/A0/mcrespo/Física/Jeringas/Mecánica/cuña.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/eje.PDF
-A/A0/mcrespo/Física/Jeringas/Mecánica/eje.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/eje.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/~$Acople.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/~$Acopleplano.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/~$Buje.SLDPRT
-A/A0/mcrespo/Física/Jeringas/Mecánica/~$eje.SLDDRW
-A/A0/mcrespo/Física/Jeringas/Mecánica/~$eje.SLDPRT
-A/A0/mcrespo/Lec/
-A/A0/mcrespo/Lec/Mecánica/
-A/A0/mcrespo/Lec/Mecánica/CP02_M-fabricio.SLDDRW
-A/A0/mcrespo/Lec/Mecánica/CP02_M-fabricio.SLDPRT
+A/A0/mcrespo/Física/Platina termica/
+A/A0/mcrespo/Física/Platina termica/Racknet.pdf
 A/A0/mgabriel/Analisis trayectorias NPs/
 A/A0/mgabriel/Analisis trayectorias NPs/Akaike.m
 
-Number of files: 204,428 (reg: 190,255, dir: 13,664, link: 509)
-Number of created files: 125 (reg: 108, dir: 17)
-Number of regular files transferred: 150
-Total file size: 80,572,350,930 bytes
-Total transferred file size: 2,603,870,108 bytes
-Literal data: 2,601,513,787 bytes
-Matched data: 2,356,321 bytes
-File list size: 1,295,243
+Number of files: 204,517 (reg: 190,333, dir: 13,675, link: 509)
+Number of created files: 89 (reg: 78, dir: 11)
+Number of regular files transferred: 132
+Total file size: 80,609,834,447 bytes
+Total transferred file size: 39,539,698 bytes
+Literal data: 37,594,180 bytes
+Matched data: 1,945,518 bytes
+File list size: 1,288,319
 File list generation time: 0.001 seconds
 File list transfer time: 0.000 seconds
-Total bytes sent: 34,138
-Total bytes received: 958,845,369
+Total bytes sent: 34,184
+Total bytes received: 26,462,098
 
-sent 34,138 bytes  received 958,845,369 bytes  399,449.91 bytes/sec
-total size is 80,572,350,930  speedup is 84.03
+sent 34,184 bytes  received 26,462,098 bytes  195,544.52 bytes/sec
+total size is 80,609,834,447  speedup is 3,042.31

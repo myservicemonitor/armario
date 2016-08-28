@@ -1,544 +1,58 @@
 receiving incremental file list
 A/A0/eluzzi/
-A/A0/eluzzi/Sala/
-A/A0/eluzzi/Sala/BUPTecho/
-A/A0/eluzzi/Sala/BUPTecho/Imagen 005.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 006.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 008.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 009.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 010.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 012.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 015.jpg
-A/A0/eluzzi/Sala/BUPTecho/Imagen 016.jpg
 A/A0/jubujjamer/
-A/A0/jubujjamer/notas.txt
-A/A0/jubujjamer/notas.txt~
-A/A0/jubujjamer/.Trash-0/
-A/A0/jubujjamer/.Trash-0/files/
-A/A0/jubujjamer/.Trash-0/files/motor_driver.ino
-A/A0/jubujjamer/.Trash-0/files/lib/
-A/A0/jubujjamer/.Trash-0/files/lib/readme.txt
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/AccelStepper.cpp
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/AccelStepper.h
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/LICENSE
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/MANIFEST
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/Makefile
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/MultiStepper.cpp
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/MultiStepper.h
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/keywords.txt
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/project.cfg
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/AccelStepper_8h-source.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/annotated.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/classAccelStepper-members.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/classAccelStepper.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/doxygen.css
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/doxygen.png
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/files.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/functions.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/functions_func.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/index.html
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/tab_b.gif
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/tab_l.gif
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/tab_r.gif
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/doc/tabs.css
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/AFMotor_ConstantSpeed/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/AFMotor_MultiStepper/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Blocking/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Blocking/Blocking.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Bounce/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Bounce/Bounce.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/ConstantSpeed/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/ConstantSpeed/ConstantSpeed.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/DualMotorShield/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/DualMotorShield/DualMotorShield.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MotorShield/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MotorShield/MotorShield.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MultiStepper/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MultiStepper/MultiStepper.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MultipleSteppers/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/MultipleSteppers/MultipleSteppers.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Overshoot/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Overshoot/Overshoot.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/ProportionalControl/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/ProportionalControl/ProportionalControl.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Quickstop/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Quickstop/Quickstop.pde
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Random/
-A/A0/jubujjamer/.Trash-0/files/lib/AccelStepper/examples/Random/Random.pde
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/SerialCommand.cpp
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/SerialCommand.h
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/keywords.txt
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/library.json
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/readme.md
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/examples/
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/examples/SerialCommandExample/
-A/A0/jubujjamer/.Trash-0/files/lib/SerialCommand/examples/SerialCommandExample/SerialCommandExample.pde
-A/A0/jubujjamer/.Trash-0/info/
-A/A0/jubujjamer/.Trash-0/info/lib.trashinfo
-A/A0/jubujjamer/.Trash-0/info/motor_driver.ino.trashinfo
 A/A0/jubujjamer/.Trash-1000/expunged/
 A/A0/jubujjamer/.Trash-1000/files/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.clang_complete
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.gcc-flags.json
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.gitignore
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.travis.yml
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/platformio.ini
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/.sconsign.dblite
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/do-not-modify-files-here.url
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/structure.hash
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/firmware.elf
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/firmware.hex
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/libAccelStepper.a
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/libFrameworkArduino.a
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/libFrameworkArduinoVariant.a
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/libSerialCommand.a
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/AccelStepper.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/AccelStepper.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/AccelStepper.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/MultiStepper.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/MultiStepper.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/AccelStepper/MultiStepper.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Arduino.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/CDC.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/CDC.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial0.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial0.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial1.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial1.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial2.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial2.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial3.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial3.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/HardwareSerial_private.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/IPAddress.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/IPAddress.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/IPAddress.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Print.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Print.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Print.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Printable.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Stream.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Stream.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Stream.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Tone.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/Tone.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/USBAPI.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/USBCore.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/USBCore.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/USBCore.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/USBDesc.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WCharacter.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WInterrupts.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WInterrupts.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WMath.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WMath.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WString.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WString.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/WString.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/_wiring_pulse.S
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/_wiring_pulse.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/abi.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/abi.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/binary.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/hooks.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/hooks.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/main.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/main.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/new.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/new.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_analog.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_analog.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_digital.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_digital.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_private.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_pulse.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_pulse.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_shift.c
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduino/wiring_shift.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduinoVariant/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/FrameworkArduinoVariant/pins_arduino.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/SerialCommand/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/SerialCommand/SerialCommand.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/SerialCommand/SerialCommand.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/SerialCommand/SerialCommand.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/src/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/src/tmp_ino_to.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/src/serialcommand/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/.pioenvs/leonardo/src/serialcommand/SerialCommand.o
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/readme.txt
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/AccelStepper.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/AccelStepper.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/LICENSE
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/MANIFEST
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/Makefile
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/MultiStepper.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/MultiStepper.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/keywords.txt
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/project.cfg
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/AccelStepper_8h-source.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/annotated.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/classAccelStepper-members.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/classAccelStepper.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/doxygen.css
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/doxygen.png
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/files.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/functions.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/functions_func.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/index.html
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/tab_b.gif
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/tab_l.gif
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/tab_r.gif
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/doc/tabs.css
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/AFMotor_ConstantSpeed/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/AFMotor_MultiStepper/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Blocking/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Blocking/Blocking.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Bounce/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Bounce/Bounce.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/ConstantSpeed/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/ConstantSpeed/ConstantSpeed.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/DualMotorShield/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/DualMotorShield/DualMotorShield.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MotorShield/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MotorShield/MotorShield.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MultiStepper/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MultiStepper/MultiStepper.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MultipleSteppers/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/MultipleSteppers/MultipleSteppers.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Overshoot/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Overshoot/Overshoot.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/ProportionalControl/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/ProportionalControl/ProportionalControl.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Quickstop/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Quickstop/Quickstop.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Random/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/AccelStepper/examples/Random/Random.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/SerialCommand.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/SerialCommand.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/keywords.txt
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/library.json
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/readme.md
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/examples/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/examples/SerialCommandExample/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/lib/SerialCommand/examples/SerialCommandExample/SerialCommandExample.pde
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/motor_driver.ino
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/SerialCommand.cpp
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/SerialCommand.h
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/keywords.txt
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/library.json
-A/A0/jubujjamer/.Trash-1000/files/firmware (copia)/src/serialcommand/readme.md
-A/A0/jubujjamer/.Trash-1000/files/fpm/
-A/A0/jubujjamer/.Trash-1000/files/fpm/img_gen.m
-A/A0/jubujjamer/.Trash-1000/files/fpm/open_imgs.m
-A/A0/jubujjamer/.Trash-1000/files/fpm/showimgs.m
-A/A0/jubujjamer/.Trash-1000/files/fpm/test1.jpg
-A/A0/jubujjamer/.Trash-1000/files/fpm/test1.m
-A/A0/jubujjamer/.Trash-1000/files/fpm/test1.png
-A/A0/jubujjamer/.Trash-1000/files/fpm/test2.m
-A/A0/jubujjamer/.Trash-1000/files/fpm/test_images.mat
-A/A0/jubujjamer/.Trash-1000/files/fpm/c_imp/
-A/A0/jubujjamer/.Trash-1000/files/fpm/c_imp/f_test.c
-A/A0/jubujjamer/.Trash-1000/files/fpm/c_imp/fourier.c
-A/A0/jubujjamer/.Trash-1000/files/fpm/c_imp/plcdemos.h
-A/A0/jubujjamer/.Trash-1000/files/fpm/c_imp/plot_test.c
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/SerialCommand.cpp
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/SerialCommand.h
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/keywords.txt
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/library.json
-A/A0/jubujjamer/.Trash-1000/files/serialcommand/readme.md
 A/A0/jubujjamer/.Trash-1000/info/
-A/A0/jubujjamer/.Trash-1000/info/firmware (copia).trashinfo
-A/A0/jubujjamer/.Trash-1000/info/fpm.trashinfo
-A/A0/jubujjamer/.Trash-1000/info/serialcommand.trashinfo
 A/A0/jubujjamer/doctorado/
 A/A0/jubujjamer/doctorado/fpm/
-A/A0/jubujjamer/doctorado/fpm/firmware/
-A/A0/jubujjamer/doctorado/fpm/firmware/.clang_complete
-A/A0/jubujjamer/doctorado/fpm/firmware/.gcc-flags.json
-A/A0/jubujjamer/doctorado/fpm/firmware/.gitignore
-A/A0/jubujjamer/doctorado/fpm/firmware/.travis.yml
-A/A0/jubujjamer/doctorado/fpm/firmware/platformio.ini
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/.sconsign.dblite
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/do-not-modify-files-here.url
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/structure.hash
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/firmware.elf
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/firmware.hex
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/libAccelStepper.a
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/libFrameworkArduino.a
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/libFrameworkArduinoVariant.a
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/libSerialCommand.a
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/AccelStepper.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/AccelStepper.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/AccelStepper.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/MultiStepper.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/MultiStepper.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/AccelStepper/MultiStepper.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Arduino.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/CDC.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/CDC.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial0.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial0.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial1.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial1.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial2.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial2.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial3.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial3.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/HardwareSerial_private.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/IPAddress.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/IPAddress.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/IPAddress.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/PluggableUSB.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Print.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Print.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Print.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Printable.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Stream.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Stream.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Stream.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Tone.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/Tone.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/USBAPI.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/USBCore.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/USBCore.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/USBCore.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/USBDesc.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WCharacter.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WInterrupts.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WInterrupts.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WMath.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WMath.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WString.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WString.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/WString.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/_wiring_pulse.S
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/_wiring_pulse.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/abi.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/abi.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/binary.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/hooks.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/hooks.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/main.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/main.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/new.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/new.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_analog.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_analog.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_digital.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_digital.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_private.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_pulse.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_pulse.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_shift.c
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduino/wiring_shift.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduinoVariant/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/FrameworkArduinoVariant/pins_arduino.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/SerialCommand/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/SerialCommand/SerialCommand.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/SerialCommand/SerialCommand.h
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/SerialCommand/SerialCommand.o
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/src/
-A/A0/jubujjamer/doctorado/fpm/firmware/.pioenvs/leonardo/src/tmp_ino_to.o
-A/A0/jubujjamer/doctorado/fpm/firmware/ino_version/
-A/A0/jubujjamer/doctorado/fpm/firmware/java_version/
-A/A0/jubujjamer/doctorado/fpm/firmware/java_version/motor_driver/
-A/A0/jubujjamer/doctorado/fpm/firmware/java_version/motor_driver/motor_driver.ino
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/readme.txt
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/AccelStepper.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/AccelStepper.h
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/LICENSE
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/MANIFEST
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/Makefile
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/MultiStepper.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/MultiStepper.h
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/keywords.txt
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/project.cfg
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/AccelStepper_8h-source.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/annotated.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/classAccelStepper-members.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/classAccelStepper.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/doxygen.css
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/doxygen.png
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/files.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/functions.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/functions_func.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/index.html
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/tab_b.gif
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/tab_l.gif
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/tab_r.gif
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/doc/tabs.css
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/AFMotor_ConstantSpeed/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/AFMotor_ConstantSpeed/AFMotor_ConstantSpeed.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/AFMotor_MultiStepper/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/AFMotor_MultiStepper/AFMotor_MultiStepper.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Blocking/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Blocking/Blocking.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Bounce/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Bounce/Bounce.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/ConstantSpeed/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/ConstantSpeed/ConstantSpeed.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/DualMotorShield/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/DualMotorShield/DualMotorShield.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MotorShield/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MotorShield/MotorShield.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MultiStepper/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MultiStepper/MultiStepper.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MultipleSteppers/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/MultipleSteppers/MultipleSteppers.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Overshoot/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Overshoot/Overshoot.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/ProportionalControl/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/ProportionalControl/ProportionalControl.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Quickstop/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Quickstop/Quickstop.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Random/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/AccelStepper/examples/Random/Random.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/SerialCommand.cpp
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/SerialCommand.h
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/keywords.txt
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/library.json
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/readme.md
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/examples/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/examples/SerialCommandExample/
-A/A0/jubujjamer/doctorado/fpm/firmware/lib/SerialCommand/examples/SerialCommandExample/SerialCommandExample.pde
-A/A0/jubujjamer/doctorado/fpm/firmware/src/
-A/A0/jubujjamer/doctorado/fpm/firmware/src/motor_driver.ino
-A/A0/jubujjamer/doctorado/fpm/firmware/src/motor_driver/
-A/A0/jubujjamer/doctorado/fpm/firmware/src/motor_driver/motor_driver.ino
-A/A0/jubujjamer/doctorado/fpm/interface/
-A/A0/jubujjamer/doctorado/fpm/interface/pyApp.py
-A/A0/jubujjamer/doctorado/fpm/interface/pyApp.py~
-A/A0/jubujjamer/doctorado/fpm/interface/pycontrol.py
-A/A0/jubujjamer/doctorado/fpm/interface/pycontrol.py~
-A/A0/jubujjamer/doctorado/fpm/interface/pydbApp.py
-A/A0/jubujjamer/doctorado/fpm/interface/pydbApp.py~
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/ReadASCIIString.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/ReadASCIIString_ino/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/ReadASCIIString_ino/ReadASCIIString_ino.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_complete/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_complete/shuttercontrol_complete.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_ino/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_ino/shuttercontrol_ino.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_inoAllButtons/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_inoAllButtons/shuttercontrol_inoAllButtons.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_inoButton/
-A/A0/jubujjamer/doctorado/fpm/interface/ReadASCIIString/shuttercontrol_inoButton/shuttercontrol_inoButton.ino
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/main.cpp
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/main.py
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/main.py~
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/main.ui
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.cpp
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.h
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.py
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.pyc
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.py~
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/mainwindow.ui
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/makefile
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/ssapp.pro
-A/A0/jubujjamer/doctorado/fpm/interface/ssapp/ssapp.pro.user
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/img_gen.m
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/open_imgs.m
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/showimgs.m
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/test1.jpg
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/test1.m
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/test1.png
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/test2.m
-A/A0/jubujjamer/doctorado/fpm/matlab_reconstruction/test_images.mat
 A/A0/mcrespo/Física/
-A/A0/mcrespo/Física/Administración.xlsx
 A/A0/mcrespo/Física/Jeringas/Circuito/
-A/A0/mcrespo/Física/Jeringas/Circuito/Driver motor.DO
-A/A0/mcrespo/Física/Jeringas/Circuito/Driver motor.EDF
-A/A0/mcrespo/Física/Jeringas/Circuito/Driver motor.log
-A/A0/mcrespo/Física/Jeringas/Circuito/Driver motor.sts
-A/A0/mcrespo/Física/Jeringas/Circuito/bestsave.rte
 A/A0/mcrespo/Lec/
 A/A0/mcrespo/Lec/Mecánica/
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/Adaptador RAMAN-RMS INT.PDF
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/Adaptador RAMAN-RMS INT.SLDDRW
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/Adaptador RAMAN-RMS INT.SLDPRT
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/Ensamblaje.SLDASM
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/RMS EXT-SM1 INT.SLDPRT
-A/A0/mcrespo/Lec/Mecánica/Adaptador RAMAN-CAGE/Tuerca.SLDPRT
-A/A0/mcrespo/Lec/Rotador/
-A/A0/mcrespo/Lec/Rotador/Backup Of Driver motor.LBK
-A/A0/mcrespo/Lec/Rotador/Backup Of Driver motorTOP.LBK
-A/A0/mcrespo/Lec/Rotador/Driver motor TOP.DSN
-A/A0/mcrespo/Lec/Rotador/Driver motor TOP.SDF
-A/A0/mcrespo/Lec/Rotador/Driver motor.BMP
-A/A0/mcrespo/Lec/Rotador/Driver motor.DSN
-A/A0/mcrespo/Lec/Rotador/Driver motor.LYT
-A/A0/mcrespo/Lec/Rotador/Driver motor.TXT
-A/A0/mcrespo/Lec/Rotador/Driver motorTOP.LYT
-A/A0/mcrespo/Lec/Rotador/Driver motorTOP.TXT
-A/A0/mcrespo/Lec/Rotador/Last Loaded Driver motor TOP.DBK
-A/A0/mcrespo/Lec/Rotador/Last Loaded Driver motor.DBK
-A/A0/mcrespo/Lec/Rotador/Last Loaded Driver motor.LBK
-A/A0/mcrespo/Lec/Rotador/Last Loaded Driver motorTOP.LBK
-A/A0/mcrespo/Lec/SPEED/
-A/A0/mcrespo/Lec/SPEED/Backup Of Control SPEED.LBK
-A/A0/mcrespo/Lec/SPEED/Control SPEED.DO
-A/A0/mcrespo/Lec/SPEED/Control SPEED.DSN
-A/A0/mcrespo/Lec/SPEED/Control SPEED.EDF
-A/A0/mcrespo/Lec/SPEED/Control SPEED.LYT
-A/A0/mcrespo/Lec/SPEED/Control SPEED.SDF
-A/A0/mcrespo/Lec/SPEED/Control SPEED.log
-A/A0/mcrespo/Lec/SPEED/Control SPEED.sts
-A/A0/mcrespo/Lec/SPEED/Control SPEED.vsd
-A/A0/mcrespo/Lec/SPEED/Contrrol.DSN
-A/A0/mcrespo/Lec/SPEED/Last Loaded Control SPEED.DBK
-A/A0/mcrespo/Lec/SPEED/Last Loaded Contrrol.DBK
-A/A0/mcrespo/Lec/SPEED/bestsave.rte
-A/A0/mcrespo/Lec/SPEED/~$$Control SPEED.~vsd
 A/A0/mcrespo/Lec/SPEED/Mecánica/
-A/A0/mcrespo/Lec/SPEED/Mecánica/Cuerpo_lente_electrica.SLDPRT
 A/A0/mcrespo/Lec/SPEED/Mecánica/Ensamblaje1.avi
+A/A0/mcrespo/Lec/SPEED/Mecánica/Ensamblaje2.avi
+A/A0/mcrespo/Lec/SPEED/Mecánica/agarre_offset.SLDPRT
+A/A0/mcrespo/Lec/SPEED/Mecánica/agarreoffsett.SLDDRW
+A/A0/mcrespo/Lec/SPEED/Mecánica/prueba.JPG
+A/A0/mcrespo/Lec/SPEED/Mecánica/topedetodo.SLDDRW
+A/A0/mcrespo/Lec/SPEED/Mecánica/topedetodo.SLDPRT
+A/A0/mcrespo/Lec/SPEED/Mecánica/total_lente_electrica.SLDDRW
+A/A0/mcrespo/Lec/SPEED/Mecánica/total_lente_electrica.SLDPRT
+A/A0/mcrespo/Lec/SPEED/Mecánica/~$Cuerpo_lente_electrica.SLDPRT
+A/A0/mcrespo/Lec/logos/._con_texto.ai
+A/A0/mcrespo/Lec/logos/._con_texto_sin_giambiagi.ai
+A/A0/mcrespo/Lec/logos/._plano.ai
+A/A0/mcrespo/Lec/logos/._sin_texto.ai
+A/A0/mcrespo/Lec/logos/con_texto.ai
+A/A0/mcrespo/Lec/logos/con_texto.jpg
+A/A0/mcrespo/Lec/logos/con_texto.tif
+A/A0/mcrespo/Lec/logos/con_texto_sin_giambiagi.ai
+A/A0/mcrespo/Lec/logos/con_texto_sin_giambiagi.jpg
+A/A0/mcrespo/Lec/logos/con_texto_sin_giambiagi.tif
+A/A0/mcrespo/Lec/logos/plano.ai
+A/A0/mcrespo/Lec/logos/plano.jpg
+A/A0/mcrespo/Lec/logos/plano.tif
+A/A0/mcrespo/Lec/logos/sin_texto.ai
+A/A0/mcrespo/Lec/logos/sin_texto.jpg
+A/A0/mcrespo/Lec/logos/sin_texto.tif
+A/A0/mgabriel/Datos Manuela/
+A/A0/mgabriel/Datos Manuela/trayectorias.m
+A/A0/mgabriel/vesiculas/
+
+Number of files: 227,383 (reg: 211,561, dir: 15,313, link: 509)
+Number of created files: 26 (reg: 26)
+Number of regular files transferred: 27
+Total file size: 88,003,012,517 bytes
+Total transferred file size: 810,860,901 bytes
+Literal data: 810,860,201 bytes
+Matched data: 700 bytes
+File list size: 1,122,211
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 16,069
+Total bytes received: 816,512,911
+
+sent 16,069 bytes  received 816,512,911 bytes  992,740.40 bytes/sec
+total size is 88,003,012,517  speedup is 107.78
